@@ -1,0 +1,696 @@
+INFO:root:Duplicate found: D:\Music\Daft Punk\Random Access Memories\01 Give Life Back To Music.mp3 and D:\Music\Compilations\Random Access Memories\01 Give Life Back To Music.mp3
+INFO:root:Duplicate found: D:\Music\Daft Punk\Random Access Memories\02 The Game Of Love.mp3 and D:\Music\Compilations\Random Access Memories\02 The Game Of Love.mp3
+INFO:root:Duplicate found: D:\Music\Daft Punk\Random Access Memories\03 Giorgio By Moroder.mp3 and D:\Music\Compilations\Random Access Memories\03 Giorgio By Moroder.mp3
+INFO:root:Duplicate found: D:\Music\Daft Punk\Random Access Memories\04 Within.mp3 and D:\Music\Compilations\Random Access Memories\04 Within.mp3
+INFO:root:Duplicate found: D:\Music\Daft Punk\Random Access Memories\05 Instant Crush.mp3 and D:\Music\Compilations\Random Access Memories\05 Instant Crush.mp3
+INFO:root:Duplicate found: D:\Music\Daft Punk\Random Access Memories\06 Lose Yourself To Dance.mp3 and D:\Music\Compilations\Random Access Memories\06 Lose Yourself To Dance.mp3
+INFO:root:Duplicate found: D:\Music\Daft Punk\Random Access Memories\07 Touch.mp3 and D:\Music\Compilations\Random Access Memories\07 Touch.mp3
+INFO:root:Duplicate found: D:\Music\Daft Punk\Random Access Memories\08 Get Lucky.mp3 and D:\Music\Compilations\Random Access Memories\08 Get Lucky.mp3
+INFO:root:Duplicate found: D:\Music\Daft Punk\Random Access Memories\09 Beyond.mp3 and D:\Music\Compilations\Random Access Memories\09 Beyond.mp3
+INFO:root:Duplicate found: D:\Music\Daft Punk\Random Access Memories\10 Motherboard.mp3 and D:\Music\Compilations\Random Access Memories\10 Motherboard.mp3
+INFO:root:Duplicate found: D:\Music\Daft Punk\Random Access Memories\11 Fragments Of Time.mp3 and D:\Music\Compilations\Random Access Memories\11 Fragments Of Time.mp3
+INFO:root:Duplicate found: D:\Music\Daft Punk\Random Access Memories\12 Doin' It Right.mp3 and D:\Music\Compilations\Random Access Memories\12 Doin' It Right.mp3
+INFO:root:Duplicate found: D:\Music\Daft Punk\Random Access Memories\13 Contact.mp3 and D:\Music\Compilations\Random Access Memories\13 Contact.mp3
+INFO:root:Duplicate found: D:\Music\Muse\Absolution\01 Intro.mp3 and D:\Music\Incubus\Incubus HQ Live\01 Intro.mp3
+INFO:root:Duplicate found: D:\Music\Nirvana\MTV Unplugged In New York [Live]\06 Dumb.mp3 and D:\Music\Nirvana\In Utero\06 Dumb.mp3
+INFO:root:Duplicate found: D:\Music\Red Hot Chili Peppers\The Plasma Shaft\02 If You Have To Ask.mp3 and D:\Music\Red Hot Chili Peppers\Blood Sugar Sex Magik\02 If You Have To Ask.mp3
+INFO:root:Duplicate found: D:\Music\beatles\Sgt. Pepper's Lonely Hearts Club Band\03 Lucy In The Sky With Diamonds.mp3 and D:\Music\The Beatles\Sgt. Pepper's Lonely Hearts Club Band\03 Lucy In The Sky With Diamonds.mp3
+INFO:root:Duplicate found: D:\Music\beatles\Sgt. Pepper's Lonely Hearts Club Band\04 Getting Better.mp3 and D:\Music\The Beatles\Sgt. Pepper's Lonely Hearts Club Band\04 Getting Better.mp3
+INFO:root:Duplicate found: D:\Music\beatles\Sgt. Pepper's Lonely Hearts Club Band\05 Fixing A Hole.mp3 and D:\Music\The Beatles\Sgt. Pepper's Lonely Hearts Club Band\05 Fixing A Hole.mp3
+INFO:root:Duplicate found: D:\Music\beatles\Sgt. Pepper's Lonely Hearts Club Band\06 She's Leaving Home.mp3 and D:\Music\The Beatles\Sgt. Pepper's Lonely Hearts Club Band\06 She's Leaving Home.mp3
+INFO:root:Duplicate found: D:\Music\beatles\Sgt. Pepper's Lonely Hearts Club Band\08 Within You Without You.mp3 and D:\Music\The Beatles\Sgt. Pepper's Lonely Hearts Club Band\08 Within You Without You.mp3
+INFO:root:Duplicate found: D:\Music\beatles\Sgt. Pepper's Lonely Hearts Club Band\09 When I'm Sixty-Four.mp3 and D:\Music\The Beatles\Sgt. Pepper's Lonely Hearts Club Band\09 When I'm Sixty-Four.mp3
+INFO:root:Duplicate found: D:\Music\beatles\Sgt. Pepper's Lonely Hearts Club Band\10 Lovely Rita.mp3 and D:\Music\The Beatles\Sgt. Pepper's Lonely Hearts Club Band\10 Lovely Rita.mp3
+INFO:root:Duplicate found: D:\Music\beatles\Sgt. Pepper's Lonely Hearts Club Band\11 Good Morning Good Morning.mp3 and D:\Music\The Beatles\Sgt. Pepper's Lonely Hearts Club Band\11 Good Morning Good Morning.mp3
+INFO:root:Duplicate found: D:\Music\beatles\Sgt. Pepper's Lonely Hearts Club Band\13 A Day In The Life.mp3 and D:\Music\The Beatles\Sgt. Pepper's Lonely Hearts Club Band\13 A Day In The Life.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Arctic Monkeys\Whatever People Say I Am, That's What I'\01 The View From The Afternoon.mp3 and D:\Music\Arctic Monkeys\whatever they say\01 The View From The Afternoon.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Arctic Monkeys\Whatever People Say I Am, That's What I'\02 I Bet You Look Good On The Dancef.mp3 and D:\Music\Arctic Monkeys\whatever they say\02 I Bet You Look Good On The Dancef.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Arctic Monkeys\Whatever People Say I Am, That's What I'\03 Fake Tales Of San Francisco.mp3 and D:\Music\Arctic Monkeys\whatever they say\03 Fake Tales Of San Francisco.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Arctic Monkeys\Whatever People Say I Am, That's What I'\04 Dancing Shoes.mp3 and D:\Music\Arctic Monkeys\whatever they say\04 Dancing Shoes.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Arctic Monkeys\Whatever People Say I Am, That's What I'\05 You Probably Couldn't See For The.mp3 and D:\Music\Arctic Monkeys\whatever they say\05 You Probably Couldn't See For The.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Arctic Monkeys\Whatever People Say I Am, That's What I'\06 Still Take You Home.mp3 and D:\Music\Arctic Monkeys\whatever they say\06 Still Take You Home.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Arctic Monkeys\Whatever People Say I Am, That's What I'\07 Riot Van.mp3 and D:\Music\Arctic Monkeys\whatever they say\07 Riot Van.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Arctic Monkeys\Whatever People Say I Am, That's What I'\08 Red Light Indicates Doors Are Sec.mp3 and D:\Music\Arctic Monkeys\whatever they say\08 Red Light Indicates Doors Are Sec.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Arctic Monkeys\Whatever People Say I Am, That's What I'\09 Mardy Bum.mp3 and D:\Music\Arctic Monkeys\whatever they say\09 Mardy Bum.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Arctic Monkeys\Whatever People Say I Am, That's What I'\10 Perhaps Vampires Is A Bit Strong.mp3 and D:\Music\Arctic Monkeys\whatever they say\10 Perhaps Vampires Is A Bit Strong.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Arctic Monkeys\Whatever People Say I Am, That's What I'\11 When The Sun Goes Down.mp3 and D:\Music\Arctic Monkeys\whatever they say\11 When The Sun Goes Down.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Arctic Monkeys\Whatever People Say I Am, That's What I'\12 From The Ritz To The Rubble.mp3 and D:\Music\Arctic Monkeys\whatever they say\12 From The Ritz To The Rubble.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Arctic Monkeys\Whatever People Say I Am, That's What I'\13 A Certain Romance.mp3 and D:\Music\Arctic Monkeys\whatever they say\13 A Certain Romance.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\linkage\linkage\01 \u30c8\u30e9\u30c3\u30af 01.mp3 and D:\Music\iTunes\iTunes Media\Music\daftclub\Unknown Album\01 \u30c8\u30e9\u30c3\u30af 01.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\linkage\linkage\02 \u30c8\u30e9\u30c3\u30af 02.mp3 and D:\Music\iTunes\iTunes Media\Music\daftclub\Unknown Album\02 \u30c8\u30e9\u30c3\u30af 02.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\linkage\linkage\03 \u30c8\u30e9\u30c3\u30af 03.mp3 and D:\Music\iTunes\iTunes Media\Music\daftclub\Unknown Album\03 \u30c8\u30e9\u30c3\u30af 03.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\linkage\linkage\04 \u30c8\u30e9\u30c3\u30af 04.mp3 and D:\Music\iTunes\iTunes Media\Music\daftclub\Unknown Album\04 \u30c8\u30e9\u30c3\u30af 04.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\linkage\linkage\05 \u30c8\u30e9\u30c3\u30af 05.mp3 and D:\Music\iTunes\iTunes Media\Music\daftclub\Unknown Album\05 \u30c8\u30e9\u30c3\u30af 05.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\linkage\linkage\06 \u30c8\u30e9\u30c3\u30af 06.mp3 and D:\Music\iTunes\iTunes Media\Music\daftclub\Unknown Album\06 \u30c8\u30e9\u30c3\u30af 06.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\linkage\linkage\07 \u30c8\u30e9\u30c3\u30af 07.mp3 and D:\Music\iTunes\iTunes Media\Music\daftclub\Unknown Album\07 \u30c8\u30e9\u30c3\u30af 07.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\linkage\linkage\08 \u30c8\u30e9\u30c3\u30af 08.mp3 and D:\Music\iTunes\iTunes Media\Music\daftclub\Unknown Album\08 \u30c8\u30e9\u30c3\u30af 08.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\linkage\linkage\09 \u30c8\u30e9\u30c3\u30af 09.mp3 and D:\Music\iTunes\iTunes Media\Music\daftclub\Unknown Album\09 \u30c8\u30e9\u30c3\u30af 09.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\linkage\linkage\10 \u30c8\u30e9\u30c3\u30af 10.mp3 and D:\Music\iTunes\iTunes Media\Music\daftclub\Unknown Album\10 \u30c8\u30e9\u30c3\u30af 10.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Nirvana\In Utero\01 Serve The Servants.mp3 and D:\Music\Nirvana\In Utero\01 Serve The Servants.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Nirvana\In Utero\02 Scentless Apprentice.mp3 and D:\Music\Nirvana\In Utero\02 Scentless Apprentice.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Nirvana\In Utero\03 Heart-Shaped Box.mp3 and D:\Music\Nirvana\In Utero\03 Heart-Shaped Box.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Nirvana\In Utero\04 Rape Me.mp3 and D:\Music\Nirvana\In Utero\04 Rape Me.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Nirvana\In Utero\06 Dumb.mp3 and D:\Music\Nirvana\In Utero\06 Dumb.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Nirvana\In Utero\07 Very Ape.mp3 and D:\Music\Nirvana\In Utero\07 Very Ape.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Nirvana\In Utero\08 Milk It.mp3 and D:\Music\Nirvana\In Utero\08 Milk It.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Nirvana\In Utero\09 Pennyroyal Tea.mp3 and D:\Music\Nirvana\In Utero\09 Pennyroyal Tea.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Nirvana\In Utero\10 Radio Friendly Unit Shifter.mp3 and D:\Music\Nirvana\In Utero\10 Radio Friendly Unit Shifter.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Nirvana\In Utero\11 Tourette's.mp3 and D:\Music\Nirvana\In Utero\11 Tourette's.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Nirvana\In Utero\12 All Apologies.mp3 and D:\Music\Nirvana\In Utero\12 All Apologies.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Radiohead\In Rainbows\01 15 Step.mp3 and D:\Music\Radiohead\In Rainbows\01 15 Step.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Radiohead\In Rainbows\02 Bodysnatchers.mp3 and D:\Music\Radiohead\In Rainbows\02 Bodysnatchers.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Radiohead\In Rainbows\03 Nude.mp3 and D:\Music\Radiohead\In Rainbows\03 Nude.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Radiohead\In Rainbows\04 Weird Fishes_Arpeggi.mp3 and D:\Music\Radiohead\In Rainbows\04 Weird Fishes_Arpeggi.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Radiohead\In Rainbows\05 All I Need.mp3 and D:\Music\Radiohead\In Rainbows\05 All I Need.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Radiohead\In Rainbows\06 Faust Arp.mp3 and D:\Music\Radiohead\In Rainbows\06 Faust Arp.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Radiohead\In Rainbows\07 Reckoner.mp3 and D:\Music\Radiohead\In Rainbows\07 Reckoner.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Radiohead\In Rainbows\08 House Of Cards.mp3 and D:\Music\Radiohead\In Rainbows\08 House Of Cards.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Radiohead\In Rainbows\09 Jigsaw Falling Into Place.mp3 and D:\Music\Radiohead\In Rainbows\09 Jigsaw Falling Into Place.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Radiohead\In Rainbows\10 Videotape.mp3 and D:\Music\Radiohead\In Rainbows\10 Videotape.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Radiohead\In Rainbows [Disc 2]\2-01 MK 1.mp3 and D:\Music\Radiohead\In Rainbows [Disc 2]\2-01 MK 1.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Radiohead\In Rainbows [Disc 2]\2-02 Down Is The New Up.mp3 and D:\Music\Radiohead\In Rainbows [Disc 2]\2-02 Down Is The New Up.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Radiohead\In Rainbows [Disc 2]\2-03 Go Slowly.mp3 and D:\Music\Radiohead\In Rainbows [Disc 2]\2-03 Go Slowly.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Radiohead\In Rainbows [Disc 2]\2-04 MK 2.mp3 and D:\Music\Radiohead\In Rainbows [Disc 2]\2-04 MK 2.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Radiohead\In Rainbows [Disc 2]\2-05 Last Flowers To The Hospital.mp3 and D:\Music\Radiohead\In Rainbows [Disc 2]\2-05 Last Flowers To The Hospital.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Radiohead\In Rainbows [Disc 2]\2-06 Up On The Ladder.mp3 and D:\Music\Radiohead\In Rainbows [Disc 2]\2-06 Up On The Ladder.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Radiohead\In Rainbows [Disc 2]\2-07 Bangers & Mash.mp3 and D:\Music\Radiohead\In Rainbows [Disc 2]\2-07 Bangers & Mash.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Radiohead\In Rainbows [Disc 2]\2-08 4 Minute Warning.mp3 and D:\Music\Radiohead\In Rainbows [Disc 2]\2-08 4 Minute Warning.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Radiohead\Kid A\01 Everything In Its Right Place.mp3 and D:\Music\Radiohead\Kid A\01 Everything In Its Right Place.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Radiohead\Kid A\02 Kid A.mp3 and D:\Music\Radiohead\Kid A\02 Kid A.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Radiohead\Kid A\03 The National Anthem.mp3 and D:\Music\Radiohead\Kid A\03 The National Anthem.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Radiohead\Kid A\04 How To Disappear Completely.mp3 and D:\Music\Radiohead\Kid A\04 How To Disappear Completely.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Radiohead\Kid A\05 Treefingers.mp3 and D:\Music\Radiohead\Kid A\05 Treefingers.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Radiohead\Kid A\06 Optimistic.mp3 and D:\Music\Radiohead\Kid A\06 Optimistic.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Radiohead\Kid A\07 In Limbo.mp3 and D:\Music\Radiohead\Kid A\07 In Limbo.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Radiohead\Kid A\08 Idioteque.mp3 and D:\Music\Radiohead\Kid A\08 Idioteque.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Radiohead\Kid A\09 Morning Bell.mp3 and D:\Music\Radiohead\Kid A\09 Morning Bell.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Radiohead\Kid A\10 Motion Picture Soundtrack.mp3 and D:\Music\Radiohead\Kid A\10 Motion Picture Soundtrack.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Radiohead\The King Of Limbs\01 Bloom.mp3 and D:\Music\Radiohead\The King Of Limbs\01 Bloom.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Radiohead\The King Of Limbs\02 Morning Mr Magpie.mp3 and D:\Music\Radiohead\The King Of Limbs\02 Morning Mr Magpie.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Radiohead\The King Of Limbs\03 Little By Little.mp3 and D:\Music\Radiohead\The King Of Limbs\03 Little By Little.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Radiohead\The King Of Limbs\04 Feral.mp3 and D:\Music\Radiohead\The King Of Limbs\04 Feral.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Radiohead\The King Of Limbs\05 Lotus Flower.mp3 and D:\Music\Radiohead\The King Of Limbs\05 Lotus Flower.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Radiohead\The King Of Limbs\06 Codex.mp3 and D:\Music\Radiohead\The King Of Limbs\06 Codex.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Radiohead\The King Of Limbs\07 Give Up The Ghost.mp3 and D:\Music\Radiohead\The King Of Limbs\07 Give Up The Ghost.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Radiohead\The King Of Limbs\08 Separator.mp3 and D:\Music\Radiohead\The King Of Limbs\08 Separator.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Rage Against The Machine\Rage Against The Machine\01 Bombtrack.mp3 and D:\Music\Rage Against The Machine\Rage Against The Machine\01 Bombtrack.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Rage Against The Machine\Rage Against The Machine\02 Killing In The Name.mp3 and D:\Music\Rage Against The Machine\Rage Against The Machine\02 Killing In The Name.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Rage Against The Machine\Rage Against The Machine\03 Take The Power Back.mp3 and D:\Music\Rage Against The Machine\Rage Against The Machine\03 Take The Power Back.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Rage Against The Machine\Rage Against The Machine\04 Settle For Nothing.mp3 and D:\Music\Rage Against The Machine\Rage Against The Machine\04 Settle For Nothing.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Rage Against The Machine\Rage Against The Machine\05 Bullet In The Head.mp3 and D:\Music\Rage Against The Machine\Rage Against The Machine\05 Bullet In The Head.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Rage Against The Machine\Rage Against The Machine\06 Know Your Enemy.mp3 and D:\Music\Rage Against The Machine\Rage Against The Machine\06 Know Your Enemy.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Rage Against The Machine\Rage Against The Machine\07 Wake Up.mp3 and D:\Music\Rage Against The Machine\Rage Against The Machine\07 Wake Up.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Rage Against The Machine\Rage Against The Machine\08 Fistful Of Steel.mp3 and D:\Music\Rage Against The Machine\Rage Against The Machine\08 Fistful Of Steel.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Rage Against The Machine\Rage Against The Machine\09 Township Rebellion.mp3 and D:\Music\Rage Against The Machine\Rage Against The Machine\09 Township Rebellion.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Rage Against The Machine\Rage Against The Machine\10 Freedom.mp3 and D:\Music\Rage Against The Machine\Rage Against The Machine\10 Freedom.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Red Hot Chili Peppers\Californication\01 Around The World.mp3 and D:\Music\Red Hot Chili Peppers\Californication\01 Around The World.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Red Hot Chili Peppers\Californication\02 Parallel Universe.mp3 and D:\Music\Red Hot Chili Peppers\Californication\02 Parallel Universe.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Red Hot Chili Peppers\Californication\03 Scar Tissue.mp3 and D:\Music\Red Hot Chili Peppers\Californication\03 Scar Tissue.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Red Hot Chili Peppers\Californication\04 Otherside.mp3 and D:\Music\Red Hot Chili Peppers\Californication\04 Otherside.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Red Hot Chili Peppers\Californication\05 Get On Top.mp3 and D:\Music\Red Hot Chili Peppers\Californication\05 Get On Top.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Red Hot Chili Peppers\Californication\06 Californication.mp3 and D:\Music\Red Hot Chili Peppers\Californication\06 Californication.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Red Hot Chili Peppers\Californication\07 Easily.mp3 and D:\Music\Red Hot Chili Peppers\Californication\07 Easily.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Red Hot Chili Peppers\Californication\08 Porcelain.mp3 and D:\Music\Red Hot Chili Peppers\Californication\08 Porcelain.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Red Hot Chili Peppers\Californication\09 Emit Remmus.mp3 and D:\Music\Red Hot Chili Peppers\Californication\09 Emit Remmus.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Red Hot Chili Peppers\Californication\10 I Like Dirt.mp3 and D:\Music\Red Hot Chili Peppers\Californication\10 I Like Dirt.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Red Hot Chili Peppers\Californication\11 This Velvet Glove.mp3 and D:\Music\Red Hot Chili Peppers\Californication\11 This Velvet Glove.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Red Hot Chili Peppers\Californication\12 Savior.mp3 and D:\Music\Red Hot Chili Peppers\Californication\12 Savior.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Red Hot Chili Peppers\Californication\13 Purple Stain.mp3 and D:\Music\Red Hot Chili Peppers\Californication\13 Purple Stain.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Red Hot Chili Peppers\Californication\14 Right On Time.mp3 and D:\Music\Red Hot Chili Peppers\Californication\14 Right On Time.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Red Hot Chili Peppers\Californication\15 Road Trippin'.mp3 and D:\Music\Red Hot Chili Peppers\Californication\15 Road Trippin'.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Red Hot Chili Peppers\Californication\16 Untitled.mp3 and D:\Music\Red Hot Chili Peppers\Californication\16 Untitled.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Red Hot Chili Peppers\I'm With You\01 Monarchy Of Roses.mp3 and D:\Music\Red Hot Chili Peppers\I'm With You\01 Monarchy Of Roses.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Red Hot Chili Peppers\I'm With You\02 Factory Of Faith.mp3 and D:\Music\Red Hot Chili Peppers\I'm With You\02 Factory Of Faith.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Red Hot Chili Peppers\I'm With You\03 Brendan's Death Song.mp3 and D:\Music\Red Hot Chili Peppers\I'm With You\03 Brendan's Death Song.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Red Hot Chili Peppers\I'm With You\04 Ethiopia.mp3 and D:\Music\Red Hot Chili Peppers\I'm With You\04 Ethiopia.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Red Hot Chili Peppers\I'm With You\05 Annie Wants A Baby.mp3 and D:\Music\Red Hot Chili Peppers\I'm With You\05 Annie Wants A Baby.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Red Hot Chili Peppers\I'm With You\06 Look Around.mp3 and D:\Music\Red Hot Chili Peppers\I'm With You\06 Look Around.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Red Hot Chili Peppers\I'm With You\08 Did I Let You Know.mp3 and D:\Music\Red Hot Chili Peppers\I'm With You\08 Did I Let You Know.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Red Hot Chili Peppers\I'm With You\09 Goodbye Hooray.mp3 and D:\Music\Red Hot Chili Peppers\I'm With You\09 Goodbye Hooray.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Red Hot Chili Peppers\I'm With You\10 Happiness Loves Company.mp3 and D:\Music\Red Hot Chili Peppers\I'm With You\10 Happiness Loves Company.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Red Hot Chili Peppers\I'm With You\11 Police Station.mp3 and D:\Music\Red Hot Chili Peppers\I'm With You\11 Police Station.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Red Hot Chili Peppers\I'm With You\12 Even You Brutus_.mp3 and D:\Music\Red Hot Chili Peppers\I'm With You\12 Even You Brutus_.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Red Hot Chili Peppers\I'm With You\13 Meet Me At The Corner.mp3 and D:\Music\Red Hot Chili Peppers\I'm With You\13 Meet Me At The Corner.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Red Hot Chili Peppers\I'm With You\14 Dance, Dance, Dance.mp3 and D:\Music\Red Hot Chili Peppers\I'm With You\14 Dance, Dance, Dance.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Red Hot Chili Peppers\The Red Hot Chili Peppers\01 True Men Don't Kill Coyotes.mp3 and D:\Music\Red Hot Chili Peppers\The Red Hot Chili Peppers\01 True Men Don't Kill Coyotes.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Red Hot Chili Peppers\The Red Hot Chili Peppers\02 Baby Appeal.mp3 and D:\Music\Red Hot Chili Peppers\The Red Hot Chili Peppers\02 Baby Appeal.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Red Hot Chili Peppers\The Red Hot Chili Peppers\03 Buckle Down.mp3 and D:\Music\Red Hot Chili Peppers\The Red Hot Chili Peppers\03 Buckle Down.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Red Hot Chili Peppers\The Red Hot Chili Peppers\04 Get Up And Jump.mp3 and D:\Music\Red Hot Chili Peppers\The Red Hot Chili Peppers\04 Get Up And Jump.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Red Hot Chili Peppers\The Red Hot Chili Peppers\05 Why Don't You Love Me.mp3 and D:\Music\Red Hot Chili Peppers\The Red Hot Chili Peppers\05 Why Don't You Love Me.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Red Hot Chili Peppers\The Red Hot Chili Peppers\06 Green Heaven.mp3 and D:\Music\Red Hot Chili Peppers\The Red Hot Chili Peppers\06 Green Heaven.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Red Hot Chili Peppers\The Red Hot Chili Peppers\07 Mommy Where's Daddy.mp3 and D:\Music\Red Hot Chili Peppers\The Red Hot Chili Peppers\07 Mommy Where's Daddy.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Red Hot Chili Peppers\The Red Hot Chili Peppers\08 Out In L.A..mp3 and D:\Music\Red Hot Chili Peppers\The Red Hot Chili Peppers\08 Out In L.A..mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Red Hot Chili Peppers\The Red Hot Chili Peppers\09 Police Helicoptor.mp3 and D:\Music\Red Hot Chili Peppers\The Red Hot Chili Peppers\09 Police Helicoptor.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Red Hot Chili Peppers\The Red Hot Chili Peppers\10 You Always Sing.mp3 and D:\Music\Red Hot Chili Peppers\The Red Hot Chili Peppers\10 You Always Sing.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Red Hot Chili Peppers\The Red Hot Chili Peppers\11 Grand Pappy Du Plenty.mp3 and D:\Music\Red Hot Chili Peppers\The Red Hot Chili Peppers\11 Grand Pappy Du Plenty.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Red Hot Chili Peppers\What Hits!_\01 Higher Ground.mp3 and D:\Music\Red Hot Chili Peppers\What Hits!_\01 Higher Ground.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Red Hot Chili Peppers\What Hits!_\02 Fight Like A Brave.mp3 and D:\Music\Red Hot Chili Peppers\What Hits!_\02 Fight Like A Brave.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Red Hot Chili Peppers\What Hits!_\03 Behind The Sun.mp3 and D:\Music\Red Hot Chili Peppers\What Hits!_\03 Behind The Sun.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Red Hot Chili Peppers\What Hits!_\04 Me & My Friends.mp3 and D:\Music\Red Hot Chili Peppers\What Hits!_\04 Me & My Friends.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Red Hot Chili Peppers\What Hits!_\05 Backwoods.mp3 and D:\Music\Red Hot Chili Peppers\What Hits!_\05 Backwoods.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Red Hot Chili Peppers\What Hits!_\06 True Men Don't Kill Coyotes.mp3 and D:\Music\Red Hot Chili Peppers\What Hits!_\06 True Men Don't Kill Coyotes.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Red Hot Chili Peppers\What Hits!_\07 Fire.mp3 and D:\Music\Red Hot Chili Peppers\What Hits!_\07 Fire.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Red Hot Chili Peppers\What Hits!_\08 Get Up And Jump.mp3 and D:\Music\Red Hot Chili Peppers\What Hits!_\08 Get Up And Jump.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Red Hot Chili Peppers\What Hits!_\09 Knock Me Down.mp3 and D:\Music\Red Hot Chili Peppers\What Hits!_\09 Knock Me Down.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Red Hot Chili Peppers\What Hits!_\10 Under The Bridge.mp3 and D:\Music\Red Hot Chili Peppers\What Hits!_\10 Under The Bridge.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Red Hot Chili Peppers\What Hits!_\11 Show Me Your Soul.mp3 and D:\Music\Red Hot Chili Peppers\What Hits!_\11 Show Me Your Soul.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Red Hot Chili Peppers\What Hits!_\12 If You Want Me To Stay.mp3 and D:\Music\Red Hot Chili Peppers\What Hits!_\12 If You Want Me To Stay.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Red Hot Chili Peppers\What Hits!_\13 Hollywood.mp3 and D:\Music\Red Hot Chili Peppers\What Hits!_\13 Hollywood.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Red Hot Chili Peppers\What Hits!_\14 Jungle Man.mp3 and D:\Music\Red Hot Chili Peppers\What Hits!_\14 Jungle Man.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Red Hot Chili Peppers\What Hits!_\15 The Brothers Cup.mp3 and D:\Music\Red Hot Chili Peppers\What Hits!_\15 The Brothers Cup.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Red Hot Chili Peppers\What Hits!_\16 Taste The Pain.mp3 and D:\Music\Red Hot Chili Peppers\What Hits!_\16 Taste The Pain.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\Red Hot Chili Peppers\What Hits!_\17 Catholic School Girls Rule.mp3 and D:\Music\Red Hot Chili Peppers\What Hits!_\17 Catholic School Girls Rule.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\The Fratellis\Costello Music\01 Henrietta.mp3 and D:\Music\The Fratellis\Costello Music\01 Henrietta.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\The Fratellis\Costello Music\02 Flathead.mp3 and D:\Music\The Fratellis\Costello Music\02 Flathead.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\The Fratellis\Costello Music\03 Cuntry Boys & City Girls.mp3 and D:\Music\The Fratellis\Costello Music\03 Cuntry Boys & City Girls.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\The Fratellis\Costello Music\04 Whistle For The Choir.mp3 and D:\Music\The Fratellis\Costello Music\04 Whistle For The Choir.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\The Fratellis\Costello Music\05 Chelsea Dagger.mp3 and D:\Music\The Fratellis\Costello Music\05 Chelsea Dagger.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\The Fratellis\Costello Music\06 For The Girl.mp3 and D:\Music\The Fratellis\Costello Music\06 For The Girl.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\The Fratellis\Costello Music\07 Doginabag.mp3 and D:\Music\The Fratellis\Costello Music\07 Doginabag.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\The Fratellis\Costello Music\08 Creepin' Up The Backstairs.mp3 and D:\Music\The Fratellis\Costello Music\08 Creepin' Up The Backstairs.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\The Fratellis\Costello Music\09 Vince The Loveable Stoner.mp3 and D:\Music\The Fratellis\Costello Music\09 Vince The Loveable Stoner.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\The Fratellis\Costello Music\11 Baby Fratelli.mp3 and D:\Music\The Fratellis\Costello Music\11 Baby Fratelli.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\The Fratellis\Costello Music\12 Got Ma Nuts From A Hippie.mp3 and D:\Music\The Fratellis\Costello Music\12 Got Ma Nuts From A Hippie.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\The Fratellis\Costello Music\13 Ole Black 'n' Blue Eyes.mp3 and D:\Music\The Fratellis\Costello Music\13 Ole Black 'n' Blue Eyes.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\The Fratellis\Costello Music\14 Dirty Barry Stole The Bluebird.mp3 and D:\Music\The Fratellis\Costello Music\14 Dirty Barry Stole The Bluebird.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\\u9ed2\u732b\u30c1\u30a7\u30eb\u30b7\u30fc\\u732b Pack\01 \u30d9\u30ea\u30fc\u30b2\u30ea\u30fc\u30ae\u30e3\u30f3\u30b0.mp3 and D:\Music\\u9ed2\u732b\u30c1\u30a7\u30eb\u30b7\u30fc\\u732b Pack\01 \u30d9\u30ea\u30fc\u30b2\u30ea\u30fc\u30ae\u30e3\u30f3\u30b0.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\\u9ed2\u732b\u30c1\u30a7\u30eb\u30b7\u30fc\\u732b Pack\02 \u30aa\u30fc\u30ac\u30cb\u30c3\u30af\u5927\u9678.mp3 and D:\Music\\u9ed2\u732b\u30c1\u30a7\u30eb\u30b7\u30fc\\u732b Pack\02 \u30aa\u30fc\u30ac\u30cb\u30c3\u30af\u5927\u9678.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\\u9ed2\u732b\u30c1\u30a7\u30eb\u30b7\u30fc\\u732b Pack\03 \u30d5\u30a1\u30f3\u30ad\u30fc\u30ac\u30fc\u30eb.mp3 and D:\Music\\u9ed2\u732b\u30c1\u30a7\u30eb\u30b7\u30fc\\u732b Pack\03 \u30d5\u30a1\u30f3\u30ad\u30fc\u30ac\u30fc\u30eb.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\\u9ed2\u732b\u30c1\u30a7\u30eb\u30b7\u30fc\\u732b Pack\04 \u5618\u3068\u30c9\u30a4\u30c4\u5175 [Live].mp3 and D:\Music\\u9ed2\u732b\u30c1\u30a7\u30eb\u30b7\u30fc\\u732b Pack\04 \u5618\u3068\u30c9\u30a4\u30c4\u5175 [Live].mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\\u9ed2\u732b\u30c1\u30a7\u30eb\u30b7\u30fc\\u732b Pack\05 \u5ec3\u4eba\u306e\u30ed\u30c3\u30af\u30f3\u30ed\u30fc\u30eb [Live].mp3 and D:\Music\\u9ed2\u732b\u30c1\u30a7\u30eb\u30b7\u30fc\\u732b Pack\05 \u5ec3\u4eba\u306e\u30ed\u30c3\u30af\u30f3\u30ed\u30fc\u30eb [Live].mp3
+INFO:root:Duplicate found: D:\Music\iTunes\iTunes Media\Music\\u9ed2\u732b\u30c1\u30a7\u30eb\u30b7\u30fc\\u732b Pack\06 \u5acc\u3093\u306a\u3063\u305f.mp3 and D:\Music\\u9ed2\u732b\u30c1\u30a7\u30eb\u30b7\u30fc\\u732b Pack\06 \u5acc\u3093\u306a\u3063\u305f.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\Music\Unknown Artist\Unknown Album\My Movie.mp3 and D:\Music\iTunes\Music\NeoCity\NeoCity\My Movie.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\Music\Unknown Artist\Unknown Album\._My Movie.mp3 and D:\Music\iTunes\Music\NeoCity\NeoCity\._My Movie.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\\u30c1\u30e3\u30c3\u30c8\u30e2\u30f3\u30c1\u30fc\\u751f\u547d\u529b\01 \u89aa\u77e5\u3089\u305a.mp3 and D:\Music\iTunes\iTunes Media\Music\\u30c1\u30e3\u30c3\u30c8\u30e2\u30f3\u30c1\u30fc\\u751f\u547d\u529b\01 \u89aa\u77e5\u3089\u305a.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\\u30c1\u30e3\u30c3\u30c8\u30e2\u30f3\u30c1\u30fc\\u751f\u547d\u529b\05 \u624b\u306e\u306a\u308b\u307b\u3046\u3078.mp3 and D:\Music\iTunes\iTunes Media\Music\\u30c1\u30e3\u30c3\u30c8\u30e2\u30f3\u30c1\u30fc\\u751f\u547d\u529b\05 \u624b\u306e\u306a\u308b\u307b\u3046\u3078.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\\u30c1\u30e3\u30c3\u30c8\u30e2\u30f3\u30c1\u30fc\\u751f\u547d\u529b\08 \u7d20\u76f4.mp3 and D:\Music\iTunes\iTunes Media\Music\\u30c1\u30e3\u30c3\u30c8\u30e2\u30f3\u30c1\u30fc\\u751f\u547d\u529b\08 \u7d20\u76f4.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\\u30c1\u30e3\u30c3\u30c8\u30e2\u30f3\u30c1\u30fc\\u751f\u547d\u529b\09 \u771f\u591c\u4e2d\u904a\u5712\u5730.mp3 and D:\Music\iTunes\iTunes Media\Music\\u30c1\u30e3\u30c3\u30c8\u30e2\u30f3\u30c1\u30fc\\u751f\u547d\u529b\09 \u771f\u591c\u4e2d\u904a\u5712\u5730.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\\u30c1\u30e3\u30c3\u30c8\u30e2\u30f3\u30c1\u30fc\\u751f\u547d\u529b\12 \u30e2\u30d0\u30a4\u30eb\u30ef\u30fc\u30eb\u30c9.mp3 and D:\Music\iTunes\iTunes Media\Music\\u30c1\u30e3\u30c3\u30c8\u30e2\u30f3\u30c1\u30fc\\u751f\u547d\u529b\12 \u30e2\u30d0\u30a4\u30eb\u30ef\u30fc\u30eb\u30c9.mp3
+INFO:root:Duplicate found: D:\Music\iTunes\\u30c1\u30e3\u30c3\u30c8\u30e2\u30f3\u30c1\u30fc\\u751f\u547d\u529b\13 \u30df\u30ab\u30c5\u30ad.mp3 and D:\Music\iTunes\iTunes Media\Music\\u30c1\u30e3\u30c3\u30c8\u30e2\u30f3\u30c1\u30fc\\u751f\u547d\u529b\13 \u30df\u30ab\u30c5\u30ad.mp3
+INFO:root:Duplicate found: D:\Music\NeoCity\Marías Playlist.mp3 and D:\Music\iTunes\Music\NeoCity\NeoCity\Marías Playlist.mp3
+INFO:root:Duplicate found: D:\Music\NeoCity\._Marías Playlist.mp3 and D:\Music\iTunes\Music\NeoCity\NeoCity\._Marías Playlist.mp3
+INFO:root:Duplicate found: D:\Music\NeoCity\Mixed Channel EVISBEATS MIX FEEL GOOD mixed by deehl.mp3.mp3 and D:\Music\iTunes\Music\NeoCity\NeoCity\Mixed Channel EVISBEATS MIX FEEL GOOD mixed by deehl.mp3.mp3
+INFO:root:Duplicate found: D:\Music\NeoCity\._Mixed Channel EVISBEATS MIX FEEL GOOD mixed by deehl.mp3.mp3 and D:\Music\iTunes\Music\NeoCity\NeoCity\._Mixed Channel EVISBEATS MIX FEEL GOOD mixed by deehl.mp3.mp3
+INFO:root:Duplicate found: D:\Music\NeoCity\Taxi\u3067\u591c\u306e\u5e30\u308a\u9053\u8074\u304d\u305f\u3044\u30d2\u30c3\u30d7\u30db\u30c3\u30d7RB Chill mix.mp3 and D:\Music\iTunes\Music\NeoCity\NeoCity\Taxi\u3067\u591c\u306e\u5e30\u308a\u9053\u8074\u304d\u305f\u3044\u30d2\u30c3\u30d7\u30db\u30c3\u30d7RB Chill mix.mp3
+INFO:root:Duplicate found: D:\Music\NeoCity\._Taxi\u3067\u591c\u306e\u5e30\u308a\u9053\u8074\u304d\u305f\u3044\u30d2\u30c3\u30d7\u30db\u30c3\u30d7RB Chill mix.mp3 and D:\Music\iTunes\Music\NeoCity\NeoCity\._Taxi\u3067\u591c\u306e\u5e30\u308a\u9053\u8074\u304d\u305f\u3044\u30d2\u30c3\u30d7\u30db\u30c3\u30d7RB Chill mix.mp3
+INFO:root:Duplicate found: D:\Music\NeoCity\x KID FRESINO20211011at USEN STUDIO COAST.mp3 and D:\Music\iTunes\Music\NeoCity\NeoCity\x KID FRESINO20211011at USEN STUDIO COAST.mp3
+INFO:root:Duplicate found: D:\Music\NeoCity\._x KID FRESINO20211011at USEN STUDIO COAST.mp3 and D:\Music\iTunes\Music\NeoCity\NeoCity\._x KID FRESINO20211011at USEN STUDIO COAST.mp3
+INFO:root:Duplicate found: D:\Music\NeoCity\\u300c\u30ab\u30cd\u30b3\u30a2\u30e4\u30ce \u5358\u72ec\u6f14\u594f\u4f1a\u300e\u3088\u3059\u304c\u300f\u300d\u3055\u304f\u3089\u30db\u30fc\u30eb\u516c\u6f14 (64 kbps).mp3 and D:\Music\iTunes\Music\NeoCity\NeoCity\\u300c\u30ab\u30cd\u30b3\u30a2\u30e4\u30ce \u5358\u72ec\u6f14\u594f\u4f1a\u300e\u3088\u3059\u304c\u300f\u300d\u3055\u304f\u3089\u30db\u30fc\u30eb\u516c\u6f14 (64 kbps).mp3
+INFO:root:Duplicate found: D:\Music\NeoCity\._\u300c\u30ab\u30cd\u30b3\u30a2\u30e4\u30ce \u5358\u72ec\u6f14\u594f\u4f1a\u300e\u3088\u3059\u304c\u300f\u300d\u3055\u304f\u3089\u30db\u30fc\u30eb\u516c\u6f14 (64 kbps).mp3 and D:\Music\iTunes\Music\NeoCity\NeoCity\._\u300c\u30ab\u30cd\u30b3\u30a2\u30e4\u30ce \u5358\u72ec\u6f14\u594f\u4f1a\u300e\u3088\u3059\u304c\u300f\u300d\u3055\u304f\u3089\u30db\u30fc\u30eb\u516c\u6f14 (64 kbps).mp3
+INFO:root:Duplicate found: D:\Music\NeoCity\\u30ab\u30cd\u30b3\u30a2\u30e4\u30ce \u3010\u3086\u3063\u304f\u308a\u6c17\u6301\u3061\u3088\u304f... \u3011 \u30e1\u30c9\u30ec\u30fc mix Neo City Pop _ Japanese Hip Hop (192 kbps).mp3 and D:\Music\iTunes\Music\NeoCity\NeoCity\\u30ab\u30cd\u30b3\u30a2\u30e4\u30ce \u3010\u3086\u3063\u304f\u308a\u6c17\u6301\u3061\u3088\u304f... \u3011 \u30e1\u30c9\u30ec\u30fc mix Neo City Pop _ Japanese Hip Hop (192 kbps).mp3
+INFO:root:Duplicate found: D:\Music\NeoCity\._\u30ab\u30cd\u30b3\u30a2\u30e4\u30ce \u3010\u3086\u3063\u304f\u308a\u6c17\u6301\u3061\u3088\u304f... \u3011 \u30e1\u30c9\u30ec\u30fc mix Neo City Pop _ Japanese Hip Hop (192 kbps).mp3 and D:\Music\iTunes\Music\NeoCity\NeoCity\._\u30ab\u30cd\u30b3\u30a2\u30e4\u30ce \u3010\u3086\u3063\u304f\u308a\u6c17\u6301\u3061\u3088\u304f... \u3011 \u30e1\u30c9\u30ec\u30fc mix Neo City Pop _ Japanese Hip Hop (192 kbps).mp3
+INFO:root:Duplicate found: D:\Music\NeoCity\\u4e0d\u7720\u6771\u4eacUzhaan\u74b0ROY\u93ae\u5ea7DOPENESS EASY MIX DJ SURD from SLEEPLESSTOKYOkakato.mp3 and D:\Music\iTunes\Music\NeoCity\NeoCity\\u4e0d\u7720\u6771\u4eacUzhaan\u74b0ROY\u93ae\u5ea7DOPENESS EASY MIX DJ SURD from SLEEPLESSTOKYOkakato.mp3
+INFO:root:Duplicate found: D:\Music\NeoCity\._\u4e0d\u7720\u6771\u4eacUzhaan\u74b0ROY\u93ae\u5ea7DOPENESS EASY MIX DJ SURD from SLEEPLESSTOKYOkakato.mp3 and D:\Music\iTunes\Music\NeoCity\NeoCity\._\u4e0d\u7720\u6771\u4eacUzhaan\u74b0ROY\u93ae\u5ea7DOPENESS EASY MIX DJ SURD from SLEEPLESSTOKYOkakato.mp3
+INFO:root:Duplicate found: D:\Music\NeoCity\\u53cb\u9054\u304c\u591c\u306b\u8074\u3044\u3066\u3044\u308b\u3089\u3057\u3044\u66f2 Mix\u65e5\u672c\u8a9e\u30e9\u30c3\u30d7\u30dd\u30c3\u30d7JPOP \u7b49.mp3 and D:\Music\iTunes\Music\NeoCity\NeoCity\\u53cb\u9054\u304c\u591c\u306b\u8074\u3044\u3066\u3044\u308b\u3089\u3057\u3044\u66f2 Mix\u65e5\u672c\u8a9e\u30e9\u30c3\u30d7\u30dd\u30c3\u30d7JPOP \u7b49.mp3
+INFO:root:Duplicate found: D:\Music\NeoCity\._\u53cb\u9054\u304c\u591c\u306b\u8074\u3044\u3066\u3044\u308b\u3089\u3057\u3044\u66f2 Mix\u65e5\u672c\u8a9e\u30e9\u30c3\u30d7\u30dd\u30c3\u30d7JPOP \u7b49.mp3 and D:\Music\iTunes\Music\NeoCity\NeoCity\._\u53cb\u9054\u304c\u591c\u306b\u8074\u3044\u3066\u3044\u308b\u3089\u3057\u3044\u66f2 Mix\u65e5\u672c\u8a9e\u30e9\u30c3\u30d7\u30dd\u30c3\u30d7JPOP \u7b49.mp3
+INFO:root:Duplicate found: D:\Music\NeoCity\\u591c\u306e\u96f0\u56f2\u6c17\u306b\u5408\u3046\u30e1\u30ed\u30a6\u306a\u5973\u6027\u30dc\u30fc\u30ab\u30ebChill mixCityPopRB.mp3 and D:\Music\iTunes\Music\NeoCity\NeoCity\\u591c\u306e\u96f0\u56f2\u6c17\u306b\u5408\u3046\u30e1\u30ed\u30a6\u306a\u5973\u6027\u30dc\u30fc\u30ab\u30ebChill mixCityPopRB.mp3
+INFO:root:Duplicate found: D:\Music\NeoCity\._\u591c\u306e\u96f0\u56f2\u6c17\u306b\u5408\u3046\u30e1\u30ed\u30a6\u306a\u5973\u6027\u30dc\u30fc\u30ab\u30ebChill mixCityPopRB.mp3 and D:\Music\iTunes\Music\NeoCity\NeoCity\._\u591c\u306e\u96f0\u56f2\u6c17\u306b\u5408\u3046\u30e1\u30ed\u30a6\u306a\u5973\u6027\u30dc\u30fc\u30ab\u30ebChill mixCityPopRB.mp3
+INFO:root:Duplicate found: D:\Music\NeoEva\90's Underground Hip Hop - Rare Tracks (64 kbps).mp3 and D:\Music\iTunes\Music\Unknown Artist\NeoEva\90's Underground Hip Hop - Rare Tracks (64 kbps).mp3
+INFO:root:Duplicate found: D:\Music\NeoEva\._90's Underground Hip Hop - Rare Tracks (64 kbps).mp3 and D:\Music\iTunes\Music\Unknown Artist\NeoEva\._90's Underground Hip Hop - Rare Tracks (64 kbps).mp3
+INFO:root:Duplicate found: D:\Music\NeoEva\MiX DJ RIKU RB.mp3 and D:\Music\iTunes\Music\Unknown Artist\NeoEva\MiX DJ RIKU RB.mp3
+INFO:root:Duplicate found: D:\Music\NeoEva\._MiX DJ RIKU RB.mp3 and D:\Music\iTunes\Music\Unknown Artist\NeoEva\._MiX DJ RIKU RB.mp3
+INFO:root:Duplicate found: D:\Music\NeoEva\Sting And Shaggy NPR Music Tiny Desk Concert (128 kbps).mp3 and D:\Music\iTunes\Music\Unknown Artist\NeoEva\Sting And Shaggy NPR Music Tiny Desk Concert (128 kbps).mp3
+INFO:root:Duplicate found: D:\Music\NeoEva\._Sting And Shaggy NPR Music Tiny Desk Concert (128 kbps).mp3 and D:\Music\iTunes\Music\Unknown Artist\NeoEva\._Sting And Shaggy NPR Music Tiny Desk Concert (128 kbps).mp3
+INFO:root:Duplicate found: D:\Music\NeoEva\mp3-now.com - \u65b0\u5287\u5834\u7248\u30a8\u30f4\u30a1\u30f3\u30b2\u30ea\u30aa\u30f3\u4e3b\u984c\u6b4c\u30e1\u30c9\u30ec\u30fc\u3000\u5b87\u591a\u7530\u30d2\u30ab\u30eb.mp3 and D:\Music\iTunes\Music\Unknown Artist\NeoEva\mp3-now.com - \u65b0\u5287\u5834\u7248\u30a8\u30f4\u30a1\u30f3\u30b2\u30ea\u30aa\u30f3\u4e3b\u984c\u6b4c\u30e1\u30c9\u30ec\u30fc\u3000\u5b87\u591a\u7530\u30d2\u30ab\u30eb.mp3
+INFO:root:Duplicate found: D:\Music\NeoEva\._mp3-now.com - \u65b0\u5287\u5834\u7248\u30a8\u30f4\u30a1\u30f3\u30b2\u30ea\u30aa\u30f3\u4e3b\u984c\u6b4c\u30e1\u30c9\u30ec\u30fc\u3000\u5b87\u591a\u7530\u30d2\u30ab\u30eb.mp3 and D:\Music\iTunes\Music\Unknown Artist\NeoEva\._mp3-now.com - \u65b0\u5287\u5834\u7248\u30a8\u30f4\u30a1\u30f3\u30b2\u30ea\u30aa\u30f3\u4e3b\u984c\u6b4c\u30e1\u30c9\u30ec\u30fc\u3000\u5b87\u591a\u7530\u30d2\u30ab\u30eb.mp3
+INFO:root:Duplicate found: D:\Music\NeoEva\ytmp3free.cc_neo-city-pop-etc-mix-video-youtubemp3free.org.mp3 and D:\Music\iTunes\Music\Unknown Artist\NeoEva\ytmp3free.cc_neo-city-pop-etc-mix-video-youtubemp3free.org.mp3
+INFO:root:Duplicate found: D:\Music\NeoEva\._ytmp3free.cc_neo-city-pop-etc-mix-video-youtubemp3free.org.mp3 and D:\Music\iTunes\Music\Unknown Artist\NeoEva\._ytmp3free.cc_neo-city-pop-etc-mix-video-youtubemp3free.org.mp3
+INFO:root:Duplicate found: D:\Music\NeoEva\\u3010\u4e0d\u7720\u6771\u4eac\u3011SOUND PROVIDERS EASY MIX _ DJ SURD from SLEEPLESS_TOKYO\u3010JASON SKILLS\u3011 (128 kbps).mp3 and D:\Music\iTunes\Music\Unknown Artist\NeoEva\\u3010\u4e0d\u7720\u6771\u4eac\u3011SOUND PROVIDERS EASY MIX _ DJ SURD from SLEEPLESS_TOKYO\u3010JASON SKILLS\u3011 (128 kbps).mp3
+INFO:root:Duplicate found: D:\Music\NeoEva\._\u3010\u4e0d\u7720\u6771\u4eac\u3011SOUND PROVIDERS EASY MIX _ DJ SURD from SLEEPLESS_TOKYO\u3010JASON SKILLS\u3011 (128 kbps).mp3 and D:\Music\iTunes\Music\Unknown Artist\NeoEva\._\u3010\u4e0d\u7720\u6771\u4eac\u3011SOUND PROVIDERS EASY MIX _ DJ SURD from SLEEPLESS_TOKYO\u3010JASON SKILLS\u3011 (128 kbps).mp3
+INFO:root:Duplicate found: D:\Music\tricot\Tricot - Live Black Cat in Washington D.C. 10.13.15 - 1080p60fps.mp3 and D:\Music\iTunes\Music\tricot\tricot\Tricot - Live Black Cat in Washington D.C. 10.13.15 - 1080p60fps.mp3
+INFO:root:Duplicate found: D:\Music\tricot\._Tricot - Live Black Cat in Washington D.C. 10.13.15 - 1080p60fps.mp3 and D:\Music\iTunes\Music\tricot\tricot\._Tricot - Live Black Cat in Washington D.C. 10.13.15 - 1080p60fps.mp3
+INFO:root:Duplicate found: D:\Music\tricot\Tricot Live VOLT Fesztivál 2014 [Full Concert].mp3 and D:\Music\iTunes\Music\tricot\tricot\Tricot Live VOLT Fesztivál 2014 [Full Concert].mp3
+INFO:root:Duplicate found: D:\Music\tricot\._Tricot Live VOLT Fesztivál 2014 [Full Concert].mp3 and D:\Music\iTunes\Music\tricot\tricot\._Tricot Live VOLT Fesztivál 2014 [Full Concert].mp3
+INFO:root:Duplicate found: D:\Music\tricot\tricot - \u30a2\u30ca\u30e1\u30a4\u30f3 \u68ee\u9053\u5e02\u5834 2018.mp3 and D:\Music\iTunes\Music\tricot\tricot\tricot - \u30a2\u30ca\u30e1\u30a4\u30f3 \u68ee\u9053\u5e02\u5834 2018.mp3
+INFO:root:Duplicate found: D:\Music\tricot\._tricot - \u30a2\u30ca\u30e1\u30a4\u30f3 \u68ee\u9053\u5e02\u5834 2018.mp3 and D:\Music\iTunes\Music\tricot\tricot\._tricot - \u30a2\u30ca\u30e1\u30a4\u30f3 \u68ee\u9053\u5e02\u5834 2018.mp3
+INFO:root:Duplicate found: D:\Music\tricot\tricot SUKIMA - YOSOIKI live at Bush Hall, London 25.8.2017.mp3 and D:\Music\iTunes\Music\tricot\tricot\tricot SUKIMA - YOSOIKI live at Bush Hall, London 25.8.2017.mp3
+INFO:root:Duplicate found: D:\Music\tricot\._tricot SUKIMA - YOSOIKI live at Bush Hall, London 25.8.2017.mp3 and D:\Music\iTunes\Music\tricot\tricot\._tricot SUKIMA - YOSOIKI live at Bush Hall, London 25.8.2017.mp3
+INFO:root:Duplicate found: D:\Music\tricot\tricot TOKYO VAMPIRE HOTEL Official Live Video.mp3 and D:\Music\iTunes\Music\tricot\tricot\tricot TOKYO VAMPIRE HOTEL Official Live Video.mp3
+INFO:root:Duplicate found: D:\Music\tricot\._tricot TOKYO VAMPIRE HOTEL Official Live Video.mp3 and D:\Music\iTunes\Music\tricot\tricot\._tricot TOKYO VAMPIRE HOTEL Official Live Video.mp3
+INFO:root:Duplicate found: D:\Music\tricot\tricot \u3088\u305d\u3044\u304d Official Live Video.mp3 and D:\Music\iTunes\Music\tricot\tricot\tricot \u3088\u305d\u3044\u304d Official Live Video.mp3
+INFO:root:Duplicate found: D:\Music\tricot\._tricot \u3088\u305d\u3044\u304d Official Live Video.mp3 and D:\Music\iTunes\Music\tricot\tricot\._tricot \u3088\u305d\u3044\u304d Official Live Video.mp3
+INFO:root:Duplicate found: D:\Music\tricot\tricot \u30a8\u30b3\u30fc Official Live Video.mp3 and D:\Music\iTunes\Music\tricot\tricot\tricot \u30a8\u30b3\u30fc Official Live Video.mp3
+INFO:root:Duplicate found: D:\Music\tricot\._tricot \u30a8\u30b3\u30fc Official Live Video.mp3 and D:\Music\iTunes\Music\tricot\tricot\._tricot \u30a8\u30b3\u30fc Official Live Video.mp3
+INFO:root:Duplicate found: D:\Music\tricot\tricot \u7206\u88c2\u30cf\u30cb\u30a8\u3055\u3093\u5927\u53cd\u5c04\u796dTour2019.04.28 at TSUTAYA O-EASTYouTube Ver..mp3 and D:\Music\iTunes\Music\tricot\tricot\tricot \u7206\u88c2\u30cf\u30cb\u30a8\u3055\u3093\u5927\u53cd\u5c04\u796dTour2019.04.28 at TSUTAYA O-EASTYouTube Ver..mp3
+INFO:root:Duplicate found: D:\Music\tricot\._tricot \u7206\u88c2\u30cf\u30cb\u30a8\u3055\u3093\u5927\u53cd\u5c04\u796dTour2019.04.28 at TSUTAYA O-EASTYouTube Ver..mp3 and D:\Music\iTunes\Music\tricot\tricot\._tricot \u7206\u88c2\u30cf\u30cb\u30a8\u3055\u3093\u5927\u53cd\u5c04\u796dTour2019.04.28 at TSUTAYA O-EASTYouTube Ver..mp3
+INFO:root:Duplicate found: D:\Music\tricot\tricotBUTTER\u5927\u53cd\u5c04\u796dTour2019.04.28 at TSUTAYA O-EASTYouTube Ver..mp3 and D:\Music\iTunes\Music\tricot\tricot\tricotBUTTER\u5927\u53cd\u5c04\u796dTour2019.04.28 at TSUTAYA O-EASTYouTube Ver..mp3
+INFO:root:Duplicate found: D:\Music\tricot\._tricotBUTTER\u5927\u53cd\u5c04\u796dTour2019.04.28 at TSUTAYA O-EASTYouTube Ver..mp3 and D:\Music\iTunes\Music\tricot\tricot\._tricotBUTTER\u5927\u53cd\u5c04\u796dTour2019.04.28 at TSUTAYA O-EASTYouTube Ver..mp3
+INFO:root:Duplicate found: D:\Music\tricot\tricot\u3042\u3075\u308c\u308b9\u624d\u30ef\u30f3\u30de\u30f32019.09.24 at TSUTAYA O-EASTYouTube Ver..mp3 and D:\Music\iTunes\Music\tricot\tricot\tricot\u3042\u3075\u308c\u308b9\u624d\u30ef\u30f3\u30de\u30f32019.09.24 at TSUTAYA O-EASTYouTube Ver..mp3
+INFO:root:Duplicate found: D:\Music\tricot\._tricot\u3042\u3075\u308c\u308b9\u624d\u30ef\u30f3\u30de\u30f32019.09.24 at TSUTAYA O-EASTYouTube Ver..mp3 and D:\Music\iTunes\Music\tricot\tricot\._tricot\u3042\u3075\u308c\u308b9\u624d\u30ef\u30f3\u30de\u30f32019.09.24 at TSUTAYA O-EASTYouTube Ver..mp3
+INFO:root:Duplicate found: D:\Music\tricot\tricot\u53f3\u8133\u5de6\u8133\u7121\u89b3\u5ba2\u516c\u6f14at Zepp DiverCity2020.3.14.mp3 and D:\Music\iTunes\Music\tricot\tricot\tricot\u53f3\u8133\u5de6\u8133\u7121\u89b3\u5ba2\u516c\u6f14at Zepp DiverCity2020.3.14.mp3
+INFO:root:Duplicate found: D:\Music\tricot\._tricot\u53f3\u8133\u5de6\u8133\u7121\u89b3\u5ba2\u516c\u6f14at Zepp DiverCity2020.3.14.mp3 and D:\Music\iTunes\Music\tricot\tricot\._tricot\u53f3\u8133\u5de6\u8133\u7121\u89b3\u5ba2\u516c\u6f14at Zepp DiverCity2020.3.14.mp3
+INFO:root:Duplicate found: D:\Music\tricot\tricot\u6df7\u305b\u308b\u306a\u5371\u967a\u7121\u89b3\u5ba2\u516c\u6f14at Zepp DiverCity2020.3.14.mp3 and D:\Music\iTunes\Music\tricot\tricot\tricot\u6df7\u305b\u308b\u306a\u5371\u967a\u7121\u89b3\u5ba2\u516c\u6f14at Zepp DiverCity2020.3.14.mp3
+INFO:root:Duplicate found: D:\Music\tricot\._tricot\u6df7\u305b\u308b\u306a\u5371\u967a\u7121\u89b3\u5ba2\u516c\u6f14at Zepp DiverCity2020.3.14.mp3 and D:\Music\iTunes\Music\tricot\tricot\._tricot\u6df7\u305b\u308b\u306a\u5371\u967a\u7121\u89b3\u5ba2\u516c\u6f14at Zepp DiverCity2020.3.14.mp3
+INFO:root:Duplicate found: D:\Music\ZUTOMAYO\\u305a\u3063\u3068\u771f\u591c\u4e2d\u3067\u3044\u3044\u306e\u306bMILABOMVZUTOMAYO - MILABO.mp3 and D:\Music\iTunes\Music\Unknown Artist\ZUTOMYO\\u305a\u3063\u3068\u771f\u591c\u4e2d\u3067\u3044\u3044\u306e\u306bMILABOMVZUTOMAYO - MILABO.mp3
+INFO:root:Duplicate found: D:\Music\ZUTOMAYO\._\u305a\u3063\u3068\u771f\u591c\u4e2d\u3067\u3044\u3044\u306e\u306bMILABOMVZUTOMAYO - MILABO.mp3 and D:\Music\iTunes\Music\Unknown Artist\ZUTOMYO\._\u305a\u3063\u3068\u771f\u591c\u4e2d\u3067\u3044\u3044\u306e\u306bMILABOMVZUTOMAYO - MILABO.mp3
+INFO:root:Duplicate found: D:\Music\ZUTOMAYO\\u305a\u3063\u3068\u771f\u591c\u4e2d\u3067\u3044\u3044\u306e\u306b\u304a\u52c9\u5f37\u3057\u3068\u3044\u3066\u3088MVZUTOMAYO - STUDY ME.mp3 and D:\Music\iTunes\Music\Unknown Artist\ZUTOMYO\\u305a\u3063\u3068\u771f\u591c\u4e2d\u3067\u3044\u3044\u306e\u306b\u304a\u52c9\u5f37\u3057\u3068\u3044\u3066\u3088MVZUTOMAYO - STUDY ME.mp3
+INFO:root:Duplicate found: D:\Music\ZUTOMAYO\._\u305a\u3063\u3068\u771f\u591c\u4e2d\u3067\u3044\u3044\u306e\u306b\u304a\u52c9\u5f37\u3057\u3068\u3044\u3066\u3088MVZUTOMAYO - STUDY ME.mp3 and D:\Music\iTunes\Music\Unknown Artist\ZUTOMYO\._\u305a\u3063\u3068\u771f\u591c\u4e2d\u3067\u3044\u3044\u306e\u306b\u304a\u52c9\u5f37\u3057\u3068\u3044\u3066\u3088MVZUTOMAYO - STUDY ME.mp3
+INFO:root:Duplicate found: D:\Music\ZUTOMAYO\\u305a\u3063\u3068\u771f\u591c\u4e2d\u3067\u3044\u3044\u306e\u306b\u30b5\u30bf\u30fc\u30f3(Acoustic ver.)Lyric Video.mp3 and D:\Music\iTunes\Music\Unknown Artist\ZUTOMYO\\u305a\u3063\u3068\u771f\u591c\u4e2d\u3067\u3044\u3044\u306e\u306b\u30b5\u30bf\u30fc\u30f3(Acoustic ver.)Lyric Video.mp3
+INFO:root:Duplicate found: D:\Music\ZUTOMAYO\._\u305a\u3063\u3068\u771f\u591c\u4e2d\u3067\u3044\u3044\u306e\u306b\u30b5\u30bf\u30fc\u30f3(Acoustic ver.)Lyric Video.mp3 and D:\Music\iTunes\Music\Unknown Artist\ZUTOMYO\._\u305a\u3063\u3068\u771f\u591c\u4e2d\u3067\u3044\u3044\u306e\u306b\u30b5\u30bf\u30fc\u30f3(Acoustic ver.)Lyric Video.mp3
+INFO:root:Duplicate found: D:\Music\ZUTOMAYO\\u305a\u3063\u3068\u771f\u591c\u4e2d\u3067\u3044\u3044\u306e\u306b\u30cf\u30bc\u99b3\u305b\u308b\u679c\u3066\u308b\u307e\u3067MV.mp3 and D:\Music\iTunes\Music\Unknown Artist\ZUTOMYO\\u305a\u3063\u3068\u771f\u591c\u4e2d\u3067\u3044\u3044\u306e\u306b\u30cf\u30bc\u99b3\u305b\u308b\u679c\u3066\u308b\u307e\u3067MV.mp3
+INFO:root:Duplicate found: D:\Music\ZUTOMAYO\._\u305a\u3063\u3068\u771f\u591c\u4e2d\u3067\u3044\u3044\u306e\u306b\u30cf\u30bc\u99b3\u305b\u308b\u679c\u3066\u308b\u307e\u3067MV.mp3 and D:\Music\iTunes\Music\Unknown Artist\ZUTOMYO\._\u305a\u3063\u3068\u771f\u591c\u4e2d\u3067\u3044\u3044\u306e\u306b\u30cf\u30bc\u99b3\u305b\u308b\u679c\u3066\u308b\u307e\u3067MV.mp3
+INFO:root:Duplicate found: D:\Music\ZUTOMAYO\\u305a\u3063\u3068\u771f\u591c\u4e2d\u3067\u3044\u3044\u306e\u306b\u79d2\u91dd\u3092\u565b\u3080MV.mp3 and D:\Music\iTunes\Music\Unknown Artist\ZUTOMYO\\u305a\u3063\u3068\u771f\u591c\u4e2d\u3067\u3044\u3044\u306e\u306b\u79d2\u91dd\u3092\u565b\u3080MV.mp3
+INFO:root:Duplicate found: D:\Music\ZUTOMAYO\._\u305a\u3063\u3068\u771f\u591c\u4e2d\u3067\u3044\u3044\u306e\u306b\u79d2\u91dd\u3092\u565b\u3080MV.mp3 and D:\Music\iTunes\Music\Unknown Artist\ZUTOMYO\._\u305a\u3063\u3068\u771f\u591c\u4e2d\u3067\u3044\u3044\u306e\u306b\u79d2\u91dd\u3092\u565b\u3080MV.mp3
+INFO:root:Duplicate found: D:\Music\ZUTOMAYO\\u305a\u3063\u3068\u771f\u591c\u4e2d\u3067\u3044\u3044\u306e\u306b\u8133\u88cf\u4e0a\u306e\u30af\u30e9\u30c3\u30ab\u30fcMV.mp3 and D:\Music\iTunes\Music\Unknown Artist\ZUTOMYO\\u305a\u3063\u3068\u771f\u591c\u4e2d\u3067\u3044\u3044\u306e\u306b\u8133\u88cf\u4e0a\u306e\u30af\u30e9\u30c3\u30ab\u30fcMV.mp3
+INFO:root:Duplicate found: D:\Music\ZUTOMAYO\._\u305a\u3063\u3068\u771f\u591c\u4e2d\u3067\u3044\u3044\u306e\u306b\u8133\u88cf\u4e0a\u306e\u30af\u30e9\u30c3\u30ab\u30fcMV.mp3 and D:\Music\iTunes\Music\Unknown Artist\ZUTOMYO\._\u305a\u3063\u3068\u771f\u591c\u4e2d\u3067\u3044\u3044\u306e\u306b\u8133\u88cf\u4e0a\u306e\u30af\u30e9\u30c3\u30ab\u30fcMV.mp3
+INFO:root:Duplicate found: D:\Music\ZUTOMAYO\\u671f\u9593\u9650\u5b9a\u305a\u3063\u3068\u771f\u591c\u4e2d\u3067\u3044\u3044\u306e\u306bMidnight Forever Live from YouTube Space Tokyo.mp3 and D:\Music\iTunes\Music\Unknown Artist\ZUTOMYO\\u671f\u9593\u9650\u5b9a\u305a\u3063\u3068\u771f\u591c\u4e2d\u3067\u3044\u3044\u306e\u306bMidnight Forever Live from YouTube Space Tokyo.mp3
+INFO:root:Duplicate found: D:\Music\ZUTOMAYO\._\u671f\u9593\u9650\u5b9a\u305a\u3063\u3068\u771f\u591c\u4e2d\u3067\u3044\u3044\u306e\u306bMidnight Forever Live from YouTube Space Tokyo.mp3 and D:\Music\iTunes\Music\Unknown Artist\ZUTOMYO\._\u671f\u9593\u9650\u5b9a\u305a\u3063\u3068\u771f\u591c\u4e2d\u3067\u3044\u3044\u306e\u306bMidnight Forever Live from YouTube Space Tokyo.mp3
+INFO:root:Duplicate found: D:\Music\\u30a6\u30e6\BASI STAY HOME MIX.mp3 and D:\Music\iTunes\Music\Unknown Artist\U\u30e6\BASI STAY HOME MIX.mp3
+INFO:root:Duplicate found: D:\Music\\u30a6\u30e6\._BASI STAY HOME MIX.mp3 and D:\Music\iTunes\Music\Unknown Artist\U\u30e6\._BASI STAY HOME MIX.mp3
+INFO:root:Duplicate found: D:\Music\\u30a6\u30e6\Kojikoji live cover.mp3 and D:\Music\iTunes\Music\Unknown Artist\U\u30e6\Kojikoji live cover.mp3
+INFO:root:Duplicate found: D:\Music\\u30a6\u30e6\._Kojikoji live cover.mp3 and D:\Music\iTunes\Music\Unknown Artist\U\u30e6\._Kojikoji live cover.mp3
+INFO:root:Duplicate found: D:\Music\\u30a6\u30e6\LUCKY TAPES - BLUE feat. kojikoji (Official Lyric Video) [short ver.].mp3 and D:\Music\iTunes\Music\Unknown Artist\U\u30e6\LUCKY TAPES - BLUE feat. kojikoji (Official Lyric Video) [short ver.].mp3
+INFO:root:Duplicate found: D:\Music\\u30a6\u30e6\._LUCKY TAPES - BLUE feat. kojikoji (Official Lyric Video) [short ver.].mp3 and D:\Music\iTunes\Music\Unknown Artist\U\u30e6\._LUCKY TAPES - BLUE feat. kojikoji (Official Lyric Video) [short ver.].mp3
+INFO:root:Duplicate found: D:\Music\\u30a6\u30e6\Norah Jones - Tennessee Waltz.mp3 and D:\Music\iTunes\Music\Unknown Artist\U\u30e6\Norah Jones - Tennessee Waltz.mp3
+INFO:root:Duplicate found: D:\Music\\u30a6\u30e6\._Norah Jones - Tennessee Waltz.mp3 and D:\Music\iTunes\Music\Unknown Artist\U\u30e6\._Norah Jones - Tennessee Waltz.mp3
+INFO:root:Duplicate found: D:\Music\\u30a6\u30e6\Sing by kojikoji.mp3 and D:\Music\iTunes\Music\Unknown Artist\U\u30e6\Sing by kojikoji.mp3
+INFO:root:Duplicate found: D:\Music\\u30a6\u30e6\._Sing by kojikoji.mp3 and D:\Music\iTunes\Music\Unknown Artist\U\u30e6\._Sing by kojikoji.mp3
+INFO:root:Duplicate found: D:\Music\\u30a6\u30e6\TOCCHI STAY HOME MIX.mp3 and D:\Music\iTunes\Music\Unknown Artist\U\u30e6\TOCCHI STAY HOME MIX.mp3
+INFO:root:Duplicate found: D:\Music\\u30a6\u30e6\._TOCCHI STAY HOME MIX.mp3 and D:\Music\iTunes\Music\Unknown Artist\U\u30e6\._TOCCHI STAY HOME MIX.mp3
+INFO:root:Duplicate found: D:\Music\\u30a6\u30e6\Wilco - Hate it Here.mp3 and D:\Music\iTunes\Music\Unknown Artist\U\u30e6\Wilco - Hate it Here.mp3
+INFO:root:Duplicate found: D:\Music\\u30a6\u30e6\._Wilco - Hate it Here.mp3 and D:\Music\iTunes\Music\Unknown Artist\U\u30e6\._Wilco - Hate it Here.mp3
+INFO:root:Duplicate found: D:\Music\\u30a6\u30e6\kojikoji\u3000guitar cover MIX.mp3 and D:\Music\iTunes\Music\Unknown Artist\U\u30e6\kojikoji\u3000guitar cover MIX.mp3
+INFO:root:Duplicate found: D:\Music\\u30a6\u30e6\._kojikoji\u3000guitar cover MIX.mp3 and D:\Music\iTunes\Music\Unknown Artist\U\u30e6\._kojikoji\u3000guitar cover MIX.mp3
+INFO:root:Duplicate found: D:\Music\\u30a6\u30e6\there_is_always_light_behind_the_clouds_iVCAUfKBPNQ.mp3 and D:\Music\iTunes\Music\\u30a6\u30e6\there_is_always_light_behind_the_clouds_iVCAUfKBPNQ\there_is_always_light_behind_the_clouds_iVCAUfKBPNQ.mp3
+INFO:root:Duplicate found: D:\Music\\u30a6\u30e6\._there_is_always_light_behind_the_clouds_iVCAUfKBPNQ.mp3 and D:\Music\iTunes\Music\\u30a6\u30e6\there_is_always_light_behind_the_clouds_iVCAUfKBPNQ\._there_is_always_light_behind_the_clouds_iVCAUfKBPNQ.mp3
+INFO:root:Duplicate found: D:\Music\\u30a6\u30e6\tricot on Audiotree Live (Full Session).mp3 and D:\Music\iTunes\Music\Unknown Artist\U\u30e6\tricot on Audiotree Live (Full Session).mp3
+INFO:root:Duplicate found: D:\Music\\u30a6\u30e6\._tricot on Audiotree Live (Full Session).mp3 and D:\Music\iTunes\Music\Unknown Artist\U\u30e6\._tricot on Audiotree Live (Full Session).mp3
+INFO:root:Duplicate found: D:\Music\\u30a6\u30e6\\u30e8\u30eb\u30b7\u30ab - \u8a00\u3063\u3066(Music Video).mp3 and D:\Music\iTunes\Music\Unknown Artist\U\u30e6\\u30e8\u30eb\u30b7\u30ab - \u8a00\u3063\u3066(Music Video).mp3
+INFO:root:Duplicate found: D:\Music\\u30a6\u30e6\._\u30e8\u30eb\u30b7\u30ab - \u8a00\u3063\u3066(Music Video).mp3 and D:\Music\iTunes\Music\Unknown Artist\U\u30e6\._\u30e8\u30eb\u30b7\u30ab - \u8a00\u3063\u3066(Music Video).mp3
+INFO:root:Duplicate found: D:\Music\\u30a6\u30e6\\u30e8\u30eb\u30b7\u30ab - \u96e8\u3068\u30ab\u30d7\u30c1\u30fc\u30ce(Official Video).mp3 and D:\Music\iTunes\Music\Unknown Artist\U\u30e6\\u30e8\u30eb\u30b7\u30ab - \u96e8\u3068\u30ab\u30d7\u30c1\u30fc\u30ce(Official Video).mp3
+INFO:root:Duplicate found: D:\Music\\u30a6\u30e6\._\u30e8\u30eb\u30b7\u30ab - \u96e8\u3068\u30ab\u30d7\u30c1\u30fc\u30ce(Official Video).mp3 and D:\Music\iTunes\Music\Unknown Artist\U\u30e6\._\u30e8\u30eb\u30b7\u30ab - \u96e8\u3068\u30ab\u30d7\u30c1\u30fc\u30ce(Official Video).mp3
+INFO:root:Duplicate found: D:\Music\\u30a6\u30e6\\u97fb\u30b7\u30b9\u30c8 HOT COFFEE feat.\u93ae\u5ea7dopeness&\u30c1\u30d7\u30eb\u30bd(STUDIO\u97fb\u30b7\u30b9\u30c8.mp3 and D:\Music\iTunes\Music\Unknown Artist\U\u30e6\\u97fb\u30b7\u30b9\u30c8 HOT COFFEE feat.\u93ae\u5ea7dopeness&\u30c1\u30d7\u30eb\u30bd(STUDIO\u97fb\u30b7\u30b9\u30c8.mp3
+INFO:root:Duplicate found: D:\Music\\u30a6\u30e6\._\u97fb\u30b7\u30b9\u30c8 HOT COFFEE feat.\u93ae\u5ea7dopeness&\u30c1\u30d7\u30eb\u30bd(STUDIO\u97fb\u30b7\u30b9\u30c8.mp3 and D:\Music\iTunes\Music\Unknown Artist\U\u30e6\._\u97fb\u30b7\u30b9\u30c8 HOT COFFEE feat.\u93ae\u5ea7dopeness&\u30c1\u30d7\u30eb\u30bd(STUDIO\u97fb\u30b7\u30b9\u30c8.mp3
+INFO:root:Duplicate found: D:\Music\hitsuji\Billie Eilish Tiny Desk Home Concert.mp3 and D:\Music\iTunes\Music\Unknown Artist\hitsuji\Billie Eilish Tiny Desk Home Concert.mp3
+INFO:root:Duplicate found: D:\Music\hitsuji\._Billie Eilish Tiny Desk Home Concert.mp3 and D:\Music\iTunes\Music\Unknown Artist\hitsuji\._Billie Eilish Tiny Desk Home Concert.mp3
+INFO:root:Duplicate found: D:\Music\hitsuji\Concert Moeka Shiotsuka.mp3 and D:\Music\iTunes\Music\Unknown Artist\hitsuji\Concert Moeka Shiotsuka.mp3
+INFO:root:Duplicate found: D:\Music\hitsuji\._Concert Moeka Shiotsuka.mp3 and D:\Music\iTunes\Music\Unknown Artist\hitsuji\._Concert Moeka Shiotsuka.mp3
+INFO:root:Duplicate found: D:\Music\hitsuji\Ella Fitzgerald and Louis Armstrong - Ella and Louis (1956) Jazz About Love.mp3 and D:\Music\iTunes\Music\Unknown Artist\hitsuji\Ella Fitzgerald and Louis Armstrong - Ella and Louis (1956) Jazz About Love.mp3
+INFO:root:Duplicate found: D:\Music\hitsuji\._Ella Fitzgerald and Louis Armstrong - Ella and Louis (1956) Jazz About Love.mp3 and D:\Music\iTunes\Music\Unknown Artist\hitsuji\._Ella Fitzgerald and Louis Armstrong - Ella and Louis (1956) Jazz About Love.mp3
+INFO:root:Duplicate found: D:\Music\hitsuji\Feng Suave Playlist.mp3 and D:\Music\iTunes\Music\Unknown Artist\hitsuji\Feng Suave Playlist.mp3
+INFO:root:Duplicate found: D:\Music\hitsuji\._Feng Suave Playlist.mp3 and D:\Music\iTunes\Music\Unknown Artist\hitsuji\._Feng Suave Playlist.mp3
+INFO:root:Duplicate found: D:\Music\hitsuji\Hitsujibungaku \u304d\u3089\u3081\u304d EP.mp3 and D:\Music\iTunes\Music\Unknown Artist\hitsuji\Hitsujibungaku \u304d\u3089\u3081\u304d EP.mp3
+INFO:root:Duplicate found: D:\Music\hitsuji\._Hitsujibungaku \u304d\u3089\u3081\u304d EP.mp3 and D:\Music\iTunes\Music\Unknown Artist\hitsuji\._Hitsujibungaku \u304d\u3089\u3081\u304d EP.mp3
+INFO:root:Duplicate found: D:\Music\hitsuji\Music like Khruangbin Similar Artists Playlist.mp3 and D:\Music\iTunes\Music\Unknown Artist\hitsuji\Music like Khruangbin Similar Artists Playlist.mp3
+INFO:root:Duplicate found: D:\Music\hitsuji\._Music like Khruangbin Similar Artists Playlist.mp3 and D:\Music\iTunes\Music\Unknown Artist\hitsuji\._Music like Khruangbin Similar Artists Playlist.mp3
+INFO:root:Duplicate found: D:\Music\hitsuji\Still Corners The Pickle Factory 291118.mp3 and D:\Music\iTunes\Music\Unknown Artist\hitsuji\Still Corners The Pickle Factory 291118.mp3
+INFO:root:Duplicate found: D:\Music\hitsuji\._Still Corners The Pickle Factory 291118.mp3 and D:\Music\iTunes\Music\Unknown Artist\hitsuji\._Still Corners The Pickle Factory 291118.mp3
+INFO:root:Duplicate found: D:\Music\hitsuji\Sunset Rollercoaster on Audiotree Live Full Session.mp3 and D:\Music\iTunes\Music\Unknown Artist\hitsuji\Sunset Rollercoaster on Audiotree Live Full Session.mp3
+INFO:root:Duplicate found: D:\Music\hitsuji\._Sunset Rollercoaster on Audiotree Live Full Session.mp3 and D:\Music\iTunes\Music\Unknown Artist\hitsuji\._Sunset Rollercoaster on Audiotree Live Full Session.mp3
+INFO:root:Duplicate found: D:\Music\hitsuji\billie eilish and finneas all the songs from the verizon livestream.mp3 and D:\Music\iTunes\Music\Unknown Artist\hitsuji\billie eilish and finneas all the songs from the verizon livestream.mp3
+INFO:root:Duplicate found: D:\Music\hitsuji\._billie eilish and finneas all the songs from the verizon livestream.mp3 and D:\Music\iTunes\Music\Unknown Artist\hitsuji\._billie eilish and finneas all the songs from the verizon livestream.mp3
+INFO:root:Duplicate found: D:\Music\hitsuji\kojikoji Instagram\u5f3e\u304d\u8a9e\u308a\u96c6.mp3 and D:\Music\iTunes\Music\Unknown Artist\hitsuji\kojikoji Instagram\u5f3e\u304d\u8a9e\u308a\u96c6.mp3
+INFO:root:Duplicate found: D:\Music\hitsuji\._kojikoji Instagram\u5f3e\u304d\u8a9e\u308a\u96c6.mp3 and D:\Music\iTunes\Music\Unknown Artist\hitsuji\._kojikoji Instagram\u5f3e\u304d\u8a9e\u308a\u96c6.mp3
+INFO:root:Duplicate found: D:\Music\hitsuji\kojikoji \u5f3e\u304d\u8a9e\u308a.mp3 and D:\Music\iTunes\Music\Unknown Artist\hitsuji\kojikoji \u5f3e\u304d\u8a9e\u308a.mp3
+INFO:root:Duplicate found: D:\Music\hitsuji\._kojikoji \u5f3e\u304d\u8a9e\u308a.mp3 and D:\Music\iTunes\Music\Unknown Artist\hitsuji\._kojikoji \u5f3e\u304d\u8a9e\u308a.mp3
+INFO:root:Duplicate found: D:\Music\hitsuji\nobody cares acoustic album by Billie Eilish.mp3 and D:\Music\iTunes\Music\Unknown Artist\hitsuji\nobody cares acoustic album by Billie Eilish.mp3
+INFO:root:Duplicate found: D:\Music\hitsuji\._nobody cares acoustic album by Billie Eilish.mp3 and D:\Music\iTunes\Music\Unknown Artist\hitsuji\._nobody cares acoustic album by Billie Eilish.mp3
+INFO:root:Duplicate found: D:\Music\hitsuji\\u30ab\u30cd\u30b3\u30a2\u30e4\u30ce \u8155\u306e\u4e2d\u3067\u3057\u304b\u7720\u308c\u306a\u3044\u732b\u306e\u3088\u3046\u306b.mp3 and D:\Music\iTunes\Music\Unknown Artist\hitsuji\\u30ab\u30cd\u30b3\u30a2\u30e4\u30ce \u8155\u306e\u4e2d\u3067\u3057\u304b\u7720\u308c\u306a\u3044\u732b\u306e\u3088\u3046\u306b.mp3
+INFO:root:Duplicate found: D:\Music\hitsuji\._\u30ab\u30cd\u30b3\u30a2\u30e4\u30ce \u8155\u306e\u4e2d\u3067\u3057\u304b\u7720\u308c\u306a\u3044\u732b\u306e\u3088\u3046\u306b.mp3 and D:\Music\iTunes\Music\Unknown Artist\hitsuji\._\u30ab\u30cd\u30b3\u30a2\u30e4\u30ce \u8155\u306e\u4e2d\u3067\u3057\u304b\u7720\u308c\u306a\u3044\u732b\u306e\u3088\u3046\u306b.mp3
+INFO:root:Duplicate found: D:\Music\hitsuji\\u30b7\u30c6\u30a3\u30dd\u30c3\u30d7\u3068\u304bNeo City Pop Japanese Hip Hop etc Mix Video\u65e5\u672c\u8a9e\u30e9\u30c3\u30d7\u3068\u304b.mp3 and D:\Music\iTunes\Music\Unknown Artist\hitsuji\\u30b7\u30c6\u30a3\u30dd\u30c3\u30d7\u3068\u304bNeo City Pop Japanese Hip Hop etc Mix Video\u65e5\u672c\u8a9e\u30e9\u30c3\u30d7\u3068\u304b.mp3
+INFO:root:Duplicate found: D:\Music\hitsuji\._\u30b7\u30c6\u30a3\u30dd\u30c3\u30d7\u3068\u304bNeo City Pop Japanese Hip Hop etc Mix Video\u65e5\u672c\u8a9e\u30e9\u30c3\u30d7\u3068\u304b.mp3 and D:\Music\iTunes\Music\Unknown Artist\hitsuji\._\u30b7\u30c6\u30a3\u30dd\u30c3\u30d7\u3068\u304bNeo City Pop Japanese Hip Hop etc Mix Video\u65e5\u672c\u8a9e\u30e9\u30c3\u30d7\u3068\u304b.mp3
+INFO:root:Duplicate found: D:\Music\hitsuji\\u30d3\u30ea\u30fc\u30a2\u30a4\u30ea\u30c3\u30b7\u30e5\u4eba\u5de5\u77e5\u80fd\u304b\u3089\u306e\u8cea\u554f\u306b\u7b54\u3048\u308b VOGUE JAPAN.mp3 and D:\Music\iTunes\Music\Unknown Artist\hitsuji\\u30d3\u30ea\u30fc\u30a2\u30a4\u30ea\u30c3\u30b7\u30e5\u4eba\u5de5\u77e5\u80fd\u304b\u3089\u306e\u8cea\u554f\u306b\u7b54\u3048\u308b VOGUE JAPAN.mp3
+INFO:root:Duplicate found: D:\Music\hitsuji\._\u30d3\u30ea\u30fc\u30a2\u30a4\u30ea\u30c3\u30b7\u30e5\u4eba\u5de5\u77e5\u80fd\u304b\u3089\u306e\u8cea\u554f\u306b\u7b54\u3048\u308b VOGUE JAPAN.mp3 and D:\Music\iTunes\Music\Unknown Artist\hitsuji\._\u30d3\u30ea\u30fc\u30a2\u30a4\u30ea\u30c3\u30b7\u30e5\u4eba\u5de5\u77e5\u80fd\u304b\u3089\u306e\u8cea\u554f\u306b\u7b54\u3048\u308b VOGUE JAPAN.mp3
+INFO:root:Duplicate found: D:\Music\hitsuji\\u7f8a\u6587\u5b66 BiRTHep.mp3 and D:\Music\iTunes\Music\Unknown Artist\hitsuji\\u7f8a\u6587\u5b66 BiRTHep.mp3
+INFO:root:Duplicate found: D:\Music\hitsuji\._\u7f8a\u6587\u5b66 BiRTHep.mp3 and D:\Music\iTunes\Music\Unknown Artist\hitsuji\._\u7f8a\u6587\u5b66 BiRTHep.mp3
+INFO:root:Duplicate found: D:\Music\hitsuji\\u7f8a\u6587\u5b66 Blueep.mp3 and D:\Music\iTunes\Music\Unknown Artist\hitsuji\\u7f8a\u6587\u5b66 Blueep.mp3
+INFO:root:Duplicate found: D:\Music\hitsuji\._\u7f8a\u6587\u5b66 Blueep.mp3 and D:\Music\iTunes\Music\Unknown Artist\hitsuji\._\u7f8a\u6587\u5b66 Blueep.mp3
+INFO:root:Duplicate found: D:\Music\DailyDose\Big Thief NPR Music Tiny Desk Concert.mp3 and D:\Music\iTunes\Music\Unknown Artist\DailyDose\Big Thief NPR Music Tiny Desk Concert.mp3
+INFO:root:Duplicate found: D:\Music\DailyDose\._Big Thief NPR Music Tiny Desk Concert.mp3 and D:\Music\iTunes\Music\Unknown Artist\DailyDose\._Big Thief NPR Music Tiny Desk Concert.mp3
+INFO:root:Duplicate found: D:\Music\DailyDose\Clairo Best Of.mp3 and D:\Music\iTunes\Music\Unknown Artist\DailyDose\Clairo Best Of.mp3
+INFO:root:Duplicate found: D:\Music\DailyDose\._Clairo Best Of.mp3 and D:\Music\iTunes\Music\Unknown Artist\DailyDose\._Clairo Best Of.mp3
+INFO:root:Duplicate found: D:\Music\DailyDose\Men I Trust - Forever Live Sessions (Full Album).mp3 and D:\Music\iTunes\Music\Unknown Artist\Unknown Album\Men I Trust - Forever Live Sessions (Full Album).mp3
+INFO:root:Duplicate found: D:\Music\DailyDose\._Men I Trust - Forever Live Sessions (Full Album).mp3 and D:\Music\iTunes\Music\Unknown Artist\Unknown Album\._Men I Trust - Forever Live Sessions (Full Album).mp3
+INFO:root:Duplicate found: D:\Music\DailyDose\Nice Guys Love You - Vol.1 [Full Compilation].mp3 and D:\Music\iTunes\Music\Unknown Artist\DailyDose\Nice Guys Love You - Vol.1 [Full Compilation].mp3
+INFO:root:Duplicate found: D:\Music\DailyDose\._Nice Guys Love You - Vol.1 [Full Compilation].mp3 and D:\Music\iTunes\Music\Unknown Artist\DailyDose\._Nice Guys Love You - Vol.1 [Full Compilation].mp3
+INFO:root:Duplicate found: D:\Music\DailyDose\Skinshape Best of.mp3 and D:\Music\iTunes\Music\Unknown Artist\Unknown Album\Skinshape Best of.mp3
+INFO:root:Duplicate found: D:\Music\DailyDose\._Skinshape Best of.mp3 and D:\Music\iTunes\Music\Unknown Artist\Unknown Album\._Skinshape Best of.mp3
+INFO:root:Duplicate found: D:\Music\DailyDose\Still Corners Best Of.mp3 and D:\Music\iTunes\Music\Unknown Artist\Unknown Album\Still Corners Best Of.mp3
+INFO:root:Duplicate found: D:\Music\DailyDose\._Still Corners Best Of.mp3 and D:\Music\iTunes\Music\Unknown Artist\Unknown Album\._Still Corners Best Of.mp3
+INFO:root:Duplicate found: D:\Music\DreamPop\Faye Webster - I Know I'm Funny haha (Full Album, 2021) (128 kbps).mp3 and D:\Music\DailyDose\Faye Webster - I Know I'm Funny haha (Full Album, 2021) (128 kbps).mp3
+INFO:root:Duplicate found: D:\Music\DreamPop\._Faye Webster - I Know I'm Funny haha (Full Album, 2021) (128 kbps).mp3 and D:\Music\DailyDose\._Faye Webster - I Know I'm Funny haha (Full Album, 2021) (128 kbps).mp3
+INFO:root:Duplicate found: D:\Music\DreamPop\Faye Webster - Performance & Interview (Live on KEXP at Home) (128 kbps).mp3 and D:\Music\DailyDose\Faye Webster - Performance & Interview (Live on KEXP at Home) (128 kbps).mp3
+INFO:root:Duplicate found: D:\Music\DreamPop\._Faye Webster - Performance & Interview (Live on KEXP at Home) (128 kbps).mp3 and D:\Music\DailyDose\._Faye Webster - Performance & Interview (Live on KEXP at Home) (128 kbps).mp3
+INFO:root:Duplicate found: D:\Music\DreamPop\Men I Trust - Men I Trust (Full Album HQ) (128 kbps).mp3 and D:\Music\DailyDose\Men I Trust - Men I Trust (Full Album HQ) (128 kbps).mp3
+INFO:root:Duplicate found: D:\Music\DreamPop\._Men I Trust - Men I Trust (Full Album HQ) (128 kbps).mp3 and D:\Music\DailyDose\._Men I Trust - Men I Trust (Full Album HQ) (128 kbps).mp3
+INFO:root:Duplicate found: D:\Music\DreamPop\Men I Trust - Oncle Jazz (Full Album HQ) (128 kbps).mp3 and D:\Music\DailyDose\Men I Trust - Oncle Jazz (Full Album HQ) (128 kbps).mp3
+INFO:root:Duplicate found: D:\Music\DreamPop\._Men I Trust - Oncle Jazz (Full Album HQ) (128 kbps).mp3 and D:\Music\DailyDose\._Men I Trust - Oncle Jazz (Full Album HQ) (128 kbps).mp3
+INFO:root:Duplicate found: D:\Music\DreamPop\Music like Clairo Similar Artists Playlist Vol. 1 (128 kbps).mp3 and D:\Music\DailyDose\Music like Clairo Similar Artists Playlist Vol. 1 (128 kbps).mp3
+INFO:root:Duplicate found: D:\Music\DreamPop\._Music like Clairo Similar Artists Playlist Vol. 1 (128 kbps).mp3 and D:\Music\DailyDose\._Music like Clairo Similar Artists Playlist Vol. 1 (128 kbps).mp3
+INFO:root:Duplicate found: D:\Music\DreamPop\Music like Men I Trust Similar Artists Playlist Vol. 1 (128 kbps).mp3 and D:\Music\DailyDose\Music like Men I Trust Similar Artists Playlist Vol. 1 (128 kbps).mp3
+INFO:root:Duplicate found: D:\Music\DreamPop\._Music like Men I Trust Similar Artists Playlist Vol. 1 (128 kbps).mp3 and D:\Music\DailyDose\._Music like Men I Trust Similar Artists Playlist Vol. 1 (128 kbps).mp3
+INFO:root:Duplicate found: D:\Music\DreamPop\Music like Skinshape Similar Artists Playlist Vol. 1 (128 kbps).mp3 and D:\Music\DailyDose\Music like Skinshape Similar Artists Playlist Vol. 1 (128 kbps).mp3
+INFO:root:Duplicate found: D:\Music\DreamPop\._Music like Skinshape Similar Artists Playlist Vol. 1 (128 kbps).mp3 and D:\Music\DailyDose\._Music like Skinshape Similar Artists Playlist Vol. 1 (128 kbps).mp3
+INFO:root:Duplicate found: D:\Music\DreamPop\Music like Still Corners Similar Artists Playlist (128 kbps).mp3 and D:\Music\DailyDose\Music like Still Corners Similar Artists Playlist (128 kbps).mp3
+INFO:root:Duplicate found: D:\Music\DreamPop\._Music like Still Corners Similar Artists Playlist (128 kbps).mp3 and D:\Music\DailyDose\._Music like Still Corners Similar Artists Playlist (128 kbps).mp3
+INFO:root:Duplicate found: D:\Music\DreamPop\Skinshape - Filoxiny [Full Album] (128 kbps).mp3 and D:\Music\DailyDose\Skinshape - Filoxiny [Full Album] (128 kbps).mp3
+INFO:root:Duplicate found: D:\Music\DreamPop\._Skinshape - Filoxiny [Full Album] (128 kbps).mp3 and D:\Music\DailyDose\._Skinshape - Filoxiny [Full Album] (128 kbps).mp3
+INFO:root:Duplicate found: D:\Music\DreamPop\Skinshape - Umoja [Full Album] (128 kbps).mp3 and D:\Music\DailyDose\Skinshape - Umoja [Full Album] (128 kbps).mp3
+INFO:root:Duplicate found: D:\Music\DreamPop\._Skinshape - Umoja [Full Album] (128 kbps).mp3 and D:\Music\DailyDose\._Skinshape - Umoja [Full Album] (128 kbps).mp3
+INFO:root:Duplicate found: D:\Music\DreamPop\Still Corners - Slow Air - full album (2018) (128 kbps).mp3 and D:\Music\DailyDose\Still Corners - Slow Air - full album (2018) (128 kbps).mp3
+INFO:root:Duplicate found: D:\Music\DreamPop\._Still Corners - Slow Air - full album (2018) (128 kbps).mp3 and D:\Music\DailyDose\._Still Corners - Slow Air - full album (2018) (128 kbps).mp3
+INFO:root:Duplicate found: D:\Music\DreamPop\Still Corners - Strange Pleasures [FULL ALBUM STREAM] (128 kbps).mp3 and D:\Music\DailyDose\Still Corners - Strange Pleasures [FULL ALBUM STREAM] (128 kbps).mp3
+INFO:root:Duplicate found: D:\Music\DreamPop\._Still Corners - Strange Pleasures [FULL ALBUM STREAM] (128 kbps).mp3 and D:\Music\DailyDose\._Still Corners - Strange Pleasures [FULL ALBUM STREAM] (128 kbps).mp3
+INFO:root:Duplicate found: D:\Music\DreamPop\Still Corners - The Last Exit (Full Album) (128 kbps).mp3 and D:\Music\DailyDose\Still Corners - The Last Exit (Full Album) (128 kbps).mp3
+INFO:root:Duplicate found: D:\Music\DreamPop\._Still Corners - The Last Exit (Full Album) (128 kbps).mp3 and D:\Music\DailyDose\._Still Corners - The Last Exit (Full Album) (128 kbps).mp3
+INFO:root:Duplicate found: D:\Music\Lofi\Men I Trust - Forever Live Sessions (Full Album).mp3 and D:\Music\iTunes\Music\Unknown Artist\Unknown Album\Men I Trust - Forever Live Sessions (Full Album).mp3
+INFO:root:Duplicate found: D:\Music\Lofi\._Men I Trust - Forever Live Sessions (Full Album).mp3 and D:\Music\iTunes\Music\Unknown Artist\Unknown Album\._Men I Trust - Forever Live Sessions (Full Album).mp3
+INFO:root:Duplicate found: D:\Music\Lofi\Skinshape Best of.mp3 and D:\Music\iTunes\Music\Unknown Artist\Unknown Album\Skinshape Best of.mp3
+INFO:root:Duplicate found: D:\Music\Lofi\._Skinshape Best of.mp3 and D:\Music\iTunes\Music\Unknown Artist\Unknown Album\._Skinshape Best of.mp3
+INFO:root:Duplicate found: D:\Music\Lofi\Still Corners Best Of.mp3 and D:\Music\iTunes\Music\Unknown Artist\Unknown Album\Still Corners Best Of.mp3
+INFO:root:Duplicate found: D:\Music\Lofi\._Still Corners Best Of.mp3 and D:\Music\iTunes\Music\Unknown Artist\Unknown Album\._Still Corners Best Of.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\album2mp3\David Guetta - DJ Mix _ Flaix FM - 11.05.2013.mp3 and D:\Music\album\Unknown Album\David Guetta - DJ Mix _ Flaix FM - 11.05.2013.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\album2mp3\Dimitri Vegas & Like Mike - Live at Tomorrowland 2013 - ( Full Mainstage Set HD ).mp3 and D:\Music\album\Unknown Album\Dimitri Vegas & Like Mike - Live at Tomorrowland 2013 - ( Full Mainstage Set HD ).mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\album2mp3\Flo Rida - R.O.O.T.S. (2009) (Full Album).mp3 and D:\Music\album\Unknown Album\Flo Rida - R.O.O.T.S. (2009) (Full Album).mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\album2mp3\Foster the people Full album Torches.mp3 and D:\Music\album\Unknown Album\Foster the people Full album Torches.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\album2mp3\Hardwell live at Ultra Music Festival 2013 - FULL HD Broadcast by UMF.TV.mp3 and D:\Music\album\Unknown Album\Hardwell live at Ultra Music Festival 2013 - FULL HD Broadcast by UMF.TV.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\album2mp3\Imagine Dragons-Night Visions Album (Deluxe Version).mp3 and D:\Music\album\Unknown Album\Imagine Dragons-Night Visions Album (Deluxe Version).mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\album2mp3\Krewella - Get Wet (Full Album).mp3 and D:\Music\album\Unknown Album\Krewella - Get Wet (Full Album).mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\album2mp3\LMFAO - Sorry For Party Rocking (Full Album).mp3 and D:\Music\album\Unknown Album\LMFAO - Sorry For Party Rocking (Full Album).mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\album2mp3\Maroon_5_-_Overexposed_Deluxe_Edition_FULL_ALBUM_2012.mp3 and D:\Music\album\Unknown Album\Maroon_5_-_Overexposed_Deluxe_Edition_FULL_ALBUM_2012.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\album2mp3\Pitbull-Full Album 2013(Global Warming).mp3 and D:\Music\album\Unknown Album\Pitbull-Full Album 2013(Global Warming).mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\album2mp3\Timberlake - The 20_20 Experience Full Album (Deluxe Edition).mp3 and D:\Music\album\Unknown Album\Timberlake - The 20_20 Experience Full Album (Deluxe Edition).mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\black eyed peas\Behind The Front\01 Fallin' Up.mp3 and D:\Music\black eyed peas\Behind The Front\01 Fallin' Up.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\black eyed peas\Behind The Front\02 Clap Your Hands.mp3 and D:\Music\black eyed peas\Behind The Front\02 Clap Your Hands.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\black eyed peas\Behind The Front\03 Joints & Jam.mp3 and D:\Music\black eyed peas\Behind The Front\03 Joints & Jam.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\black eyed peas\Behind The Front\04 The Way U Make Me Feel.mp3 and D:\Music\black eyed peas\Behind The Front\04 The Way U Make Me Feel.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\black eyed peas\Behind The Front\05 Movement.mp3 and D:\Music\black eyed peas\Behind The Front\05 Movement.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\black eyed peas\Behind The Front\06 Karma.mp3 and D:\Music\black eyed peas\Behind The Front\06 Karma.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\black eyed peas\Behind The Front\07 Be Free.mp3 and D:\Music\black eyed peas\Behind The Front\07 Be Free.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\black eyed peas\Behind The Front\08 Say Goodbye.mp3 and D:\Music\black eyed peas\Behind The Front\08 Say Goodbye.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\black eyed peas\Behind The Front\09 Duet.mp3 and D:\Music\black eyed peas\Behind The Front\09 Duet.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\black eyed peas\Behind The Front\10 Communication.mp3 and D:\Music\black eyed peas\Behind The Front\10 Communication.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\black eyed peas\Behind The Front\11 What It Is.mp3 and D:\Music\black eyed peas\Behind The Front\11 What It Is.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\black eyed peas\Behind The Front\12 _Que Dices_.mp3 and D:\Music\black eyed peas\Behind The Front\12 _Que Dices_.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\black eyed peas\Behind The Front\13 A8.mp3 and D:\Music\black eyed peas\Behind The Front\13 A8.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\black eyed peas\Behind The Front\14 Love Won't Wait.mp3 and D:\Music\black eyed peas\Behind The Front\14 Love Won't Wait.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\black eyed peas\Behind The Front\15 Head Bobs.mp3 and D:\Music\black eyed peas\Behind The Front\15 Head Bobs.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\black eyed peas\Behind The Front\16 Positivity.mp3 and D:\Music\black eyed peas\Behind The Front\16 Positivity.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\black eyed peas\Monkey Business\01 Pump It.mp3 and D:\Music\black eyed peas\Monkey Business\01 Pump It.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\black eyed peas\Monkey Business\02 Don't Phunk With My Heart.mp3 and D:\Music\black eyed peas\Monkey Business\02 Don't Phunk With My Heart.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\black eyed peas\Monkey Business\03 My Style.mp3 and D:\Music\black eyed peas\Monkey Business\03 My Style.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\black eyed peas\Monkey Business\04 Don't Lie.mp3 and D:\Music\black eyed peas\Monkey Business\04 Don't Lie.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\black eyed peas\Monkey Business\05 My Humps.mp3 and D:\Music\black eyed peas\Monkey Business\05 My Humps.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\black eyed peas\Monkey Business\06 Like That.mp3 and D:\Music\black eyed peas\Monkey Business\06 Like That.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\black eyed peas\Monkey Business\07 Dum Diddly.mp3 and D:\Music\black eyed peas\Monkey Business\07 Dum Diddly.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\black eyed peas\Monkey Business\08 Feel It.mp3 and D:\Music\black eyed peas\Monkey Business\08 Feel It.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\black eyed peas\Monkey Business\09 Gone Going.mp3 and D:\Music\black eyed peas\Monkey Business\09 Gone Going.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\black eyed peas\Monkey Business\10 They Don't Want Music.mp3 and D:\Music\black eyed peas\Monkey Business\10 They Don't Want Music.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\black eyed peas\Monkey Business\11 Disco Club.mp3 and D:\Music\black eyed peas\Monkey Business\11 Disco Club.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\black eyed peas\Monkey Business\12 Bebot.mp3 and D:\Music\black eyed peas\Monkey Business\12 Bebot.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\black eyed peas\Monkey Business\13 Ba Bump.mp3 and D:\Music\black eyed peas\Monkey Business\13 Ba Bump.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\black eyed peas\Monkey Business\14 Audio Delite At Low Fidelity.mp3 and D:\Music\black eyed peas\Monkey Business\14 Audio Delite At Low Fidelity.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\black eyed peas\Monkey Business\15 Union.mp3 and D:\Music\black eyed peas\Monkey Business\15 Union.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\black eyed peas\Monkey Business\16 Do What You Want.mp3 and D:\Music\black eyed peas\Monkey Business\16 Do What You Want.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\black eyed peas\The Beginning\01 The Time (Dirty Bit).mp3 and D:\Music\black eyed peas\The Beginning\01 The Time (Dirty Bit).mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\black eyed peas\The Beginning\02 Light Up The Night.mp3 and D:\Music\black eyed peas\The Beginning\02 Light Up The Night.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\black eyed peas\The Beginning\03 Love You Long Time.mp3 and D:\Music\black eyed peas\The Beginning\03 Love You Long Time.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\black eyed peas\The Beginning\04 Xoxoxo.mp3 and D:\Music\black eyed peas\The Beginning\04 Xoxoxo.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\black eyed peas\The Beginning\05 Someday.mp3 and D:\Music\black eyed peas\The Beginning\05 Someday.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\black eyed peas\The Beginning\06 Whenever.mp3 and D:\Music\black eyed peas\The Beginning\06 Whenever.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\black eyed peas\The Beginning\07 Fashion Beats.mp3 and D:\Music\black eyed peas\The Beginning\07 Fashion Beats.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\black eyed peas\The Beginning\08 Don't Stop The Party.mp3 and D:\Music\black eyed peas\The Beginning\08 Don't Stop The Party.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\black eyed peas\The Beginning\09 Do It Like This.mp3 and D:\Music\black eyed peas\The Beginning\09 Do It Like This.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\black eyed peas\The Beginning\10 The Best One Yet (The Boy).mp3 and D:\Music\black eyed peas\The Beginning\10 The Best One Yet (The Boy).mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\black eyed peas\The Beginning\11 Just Can't Get Enough.mp3 and D:\Music\black eyed peas\The Beginning\11 Just Can't Get Enough.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\black eyed peas\The Beginning\12 Play It Loud.mp3 and D:\Music\black eyed peas\The Beginning\12 Play It Loud.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Blood Sugar Sex Magik\01 The Power Of Equality.mp3 and D:\Music\Red Hot Chili Peppers\Blood Sugar Sex Magik\01 The Power Of Equality.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Blood Sugar Sex Magik\02 If You Have To Ask.mp3 and D:\Music\Red Hot Chili Peppers\Blood Sugar Sex Magik\02 If You Have To Ask.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Blood Sugar Sex Magik\03 Breaking The Girl.mp3 and D:\Music\Red Hot Chili Peppers\Blood Sugar Sex Magik\03 Breaking The Girl.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Blood Sugar Sex Magik\04 Funky Monks.mp3 and D:\Music\Red Hot Chili Peppers\Blood Sugar Sex Magik\04 Funky Monks.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Blood Sugar Sex Magik\05 Suck My Kiss.mp3 and D:\Music\Red Hot Chili Peppers\Blood Sugar Sex Magik\05 Suck My Kiss.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Blood Sugar Sex Magik\06 I Could Have Lied.mp3 and D:\Music\Red Hot Chili Peppers\Blood Sugar Sex Magik\06 I Could Have Lied.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Blood Sugar Sex Magik\07 Mellowship Slinky In B Major.mp3 and D:\Music\Red Hot Chili Peppers\Blood Sugar Sex Magik\07 Mellowship Slinky In B Major.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Blood Sugar Sex Magik\08 The Righteous & The Wicked.mp3 and D:\Music\Red Hot Chili Peppers\Blood Sugar Sex Magik\08 The Righteous & The Wicked.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Blood Sugar Sex Magik\09 Give It Away.mp3 and D:\Music\Red Hot Chili Peppers\Blood Sugar Sex Magik\09 Give It Away.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Blood Sugar Sex Magik\10 Blood Sugar Sex Magik.mp3 and D:\Music\Red Hot Chili Peppers\Blood Sugar Sex Magik\10 Blood Sugar Sex Magik.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Blood Sugar Sex Magik\11 Under The Bridge.mp3 and D:\Music\Red Hot Chili Peppers\Blood Sugar Sex Magik\11 Under The Bridge.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Blood Sugar Sex Magik\12 Naked In The Rain.mp3 and D:\Music\Red Hot Chili Peppers\Blood Sugar Sex Magik\12 Naked In The Rain.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Blood Sugar Sex Magik\13 Apache Rose Peacock.mp3 and D:\Music\Red Hot Chili Peppers\Blood Sugar Sex Magik\13 Apache Rose Peacock.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Blood Sugar Sex Magik\14 The Greeting Song.mp3 and D:\Music\Red Hot Chili Peppers\Blood Sugar Sex Magik\14 The Greeting Song.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Blood Sugar Sex Magik\15 My Lovely Man.mp3 and D:\Music\Red Hot Chili Peppers\Blood Sugar Sex Magik\15 My Lovely Man.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Blood Sugar Sex Magik\16 Sir Psycho Sexy.mp3 and D:\Music\Red Hot Chili Peppers\Blood Sugar Sex Magik\16 Sir Psycho Sexy.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Blood Sugar Sex Magik\17 They're Red Hot.mp3 and D:\Music\Red Hot Chili Peppers\Blood Sugar Sex Magik\17 They're Red Hot.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Chvrches\The Bones Of What You Believe\01 The Mother We Share.mp3 and D:\Music\Chvrches\The Bones Of What You Believe\01 The Mother We Share.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Chvrches\The Bones Of What You Believe\02 We Sink.mp3 and D:\Music\Chvrches\The Bones Of What You Believe\02 We Sink.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Chvrches\The Bones Of What You Believe\03 Gun.mp3 and D:\Music\Chvrches\The Bones Of What You Believe\03 Gun.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Chvrches\The Bones Of What You Believe\04 Tether.mp3 and D:\Music\Chvrches\The Bones Of What You Believe\04 Tether.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Chvrches\The Bones Of What You Believe\05 Lies.mp3 and D:\Music\Chvrches\The Bones Of What You Believe\05 Lies.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Chvrches\The Bones Of What You Believe\06 Under The Tide.mp3 and D:\Music\Chvrches\The Bones Of What You Believe\06 Under The Tide.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Chvrches\The Bones Of What You Believe\07 Recover.mp3 and D:\Music\Chvrches\The Bones Of What You Believe\07 Recover.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Chvrches\The Bones Of What You Believe\08 Night Sky.mp3 and D:\Music\Chvrches\The Bones Of What You Believe\08 Night Sky.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Chvrches\The Bones Of What You Believe\09 Science_Visions.mp3 and D:\Music\Chvrches\The Bones Of What You Believe\09 Science_Visions.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Chvrches\The Bones Of What You Believe\10 Lungs.mp3 and D:\Music\Chvrches\The Bones Of What You Believe\10 Lungs.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Chvrches\The Bones Of What You Believe\11 By The Throat.mp3 and D:\Music\Chvrches\The Bones Of What You Believe\11 By The Throat.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Chvrches\The Bones Of What You Believe\12 You Caught The Light.mp3 and D:\Music\Chvrches\The Bones Of What You Believe\12 You Caught The Light.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\daft punk ram\01 Give Life Back To Music.mp3 and D:\Music\Compilations\Random Access Memories\01 Give Life Back To Music.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\daft punk ram\02 The Game Of Love.mp3 and D:\Music\Compilations\Random Access Memories\02 The Game Of Love.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\daft punk ram\03 Giorgio By Moroder.mp3 and D:\Music\Compilations\Random Access Memories\03 Giorgio By Moroder.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\daft punk ram\04 Within.mp3 and D:\Music\Compilations\Random Access Memories\04 Within.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\daft punk ram\05 Instant Crush.mp3 and D:\Music\Compilations\Random Access Memories\05 Instant Crush.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\daft punk ram\06 Lose Yourself To Dance.mp3 and D:\Music\Compilations\Random Access Memories\06 Lose Yourself To Dance.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\daft punk ram\07 Touch.mp3 and D:\Music\Compilations\Random Access Memories\07 Touch.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\daft punk ram\08 Get Lucky.mp3 and D:\Music\Compilations\Random Access Memories\08 Get Lucky.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\daft punk ram\09 Beyond.mp3 and D:\Music\Compilations\Random Access Memories\09 Beyond.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\daft punk ram\10 Motherboard.mp3 and D:\Music\Compilations\Random Access Memories\10 Motherboard.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\daft punk ram\11 Fragments Of Time.mp3 and D:\Music\Compilations\Random Access Memories\11 Fragments Of Time.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\daft punk ram\12 Doin' It Right.mp3 and D:\Music\Compilations\Random Access Memories\12 Doin' It Right.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\daft punk ram\13 Contact.mp3 and D:\Music\Compilations\Random Access Memories\13 Contact.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\metallica\Muse\Absolution\01 Intro.mp3 and D:\Music\Incubus\Incubus HQ Live\01 Intro.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\metallica\Muse\Absolution\02 Apocalypse Please.mp3 and D:\Music\Muse\Absolution\02 Apocalypse Please.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\metallica\Muse\Absolution\03 Time Is Running Out.mp3 and D:\Music\Muse\Absolution\03 Time Is Running Out.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\metallica\Muse\Absolution\04 Sing For Absolution.mp3 and D:\Music\Muse\Absolution\04 Sing For Absolution.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\metallica\Muse\Absolution\05 Stockholm Syndrome.mp3 and D:\Music\Muse\Absolution\05 Stockholm Syndrome.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\metallica\Muse\Absolution\06 Falling Away With You.mp3 and D:\Music\Muse\Absolution\06 Falling Away With You.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\metallica\Muse\Absolution\07 Interlude.mp3 and D:\Music\Muse\Absolution\07 Interlude.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\metallica\Muse\Absolution\08 Hysteria.mp3 and D:\Music\Muse\Absolution\08 Hysteria.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Mother's Milk\01 Good Time Boys.mp3 and D:\Music\Red Hot Chili Peppers\Mother's Milk\01 Good Time Boys.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Mother's Milk\02 Higher Ground.mp3 and D:\Music\Red Hot Chili Peppers\Mother's Milk\02 Higher Ground.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Mother's Milk\03 Subway To Venus.mp3 and D:\Music\Red Hot Chili Peppers\Mother's Milk\03 Subway To Venus.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Mother's Milk\04 Magic Johnson.mp3 and D:\Music\Red Hot Chili Peppers\Mother's Milk\04 Magic Johnson.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Mother's Milk\05 Nobody Weird Like Me.mp3 and D:\Music\Red Hot Chili Peppers\Mother's Milk\05 Nobody Weird Like Me.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Mother's Milk\06 Knock Me Down.mp3 and D:\Music\Red Hot Chili Peppers\Mother's Milk\06 Knock Me Down.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Mother's Milk\07 Taste The Pain.mp3 and D:\Music\Red Hot Chili Peppers\Mother's Milk\07 Taste The Pain.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Mother's Milk\08 Stone Cold Bush.mp3 and D:\Music\Red Hot Chili Peppers\Mother's Milk\08 Stone Cold Bush.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Mother's Milk\09 Fire.mp3 and D:\Music\Red Hot Chili Peppers\Mother's Milk\09 Fire.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Mother's Milk\10 Pretty Little Ditty.mp3 and D:\Music\Red Hot Chili Peppers\Mother's Milk\10 Pretty Little Ditty.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Mother's Milk\11 Punk Rock Classic.mp3 and D:\Music\Red Hot Chili Peppers\Mother's Milk\11 Punk Rock Classic.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Mother's Milk\12 Sexy Mexican Maid.mp3 and D:\Music\Red Hot Chili Peppers\Mother's Milk\12 Sexy Mexican Maid.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Mother's Milk\13 Johnny, Kick A Hole In The Sky.mp3 and D:\Music\Red Hot Chili Peppers\Mother's Milk\13 Johnny, Kick A Hole In The Sky.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Mother's Milk\17 Salute To Kareem [Demo].mp3 and D:\Music\Red Hot Chili Peppers\Mother's Milk\17 Salute To Kareem [Demo].mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Mother's Milk\18 Castles Made Of Sand [Live].mp3 and D:\Music\Red Hot Chili Peppers\Mother's Milk\18 Castles Made Of Sand [Live].mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Mother's Milk\19 Crosstown Traffic [Live].mp3 and D:\Music\Red Hot Chili Peppers\Mother's Milk\19 Crosstown Traffic [Live].mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Muse\Absolution\01 Intro.mp3 and D:\Music\Incubus\Incubus HQ Live\01 Intro.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Muse\Absolution\02 Apocalypse Please.mp3 and D:\Music\Muse\Absolution\02 Apocalypse Please.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Muse\Absolution\03 Time Is Running Out.mp3 and D:\Music\Muse\Absolution\03 Time Is Running Out.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Muse\Absolution\04 Sing For Absolution.mp3 and D:\Music\Muse\Absolution\04 Sing For Absolution.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Muse\Absolution\05 Stockholm Syndrome.mp3 and D:\Music\Muse\Absolution\05 Stockholm Syndrome.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Muse\Absolution\06 Falling Away With You.mp3 and D:\Music\Muse\Absolution\06 Falling Away With You.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Muse\Absolution\07 Interlude.mp3 and D:\Music\Muse\Absolution\07 Interlude.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Muse\Absolution\08 Hysteria.mp3 and D:\Music\Muse\Absolution\08 Hysteria.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Muse\Absolution\09 Blackout.mp3 and D:\Music\Muse\Absolution\09 Blackout.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Muse\Absolution\10 Butterflies & Hurricanes.mp3 and D:\Music\Muse\Absolution\10 Butterflies & Hurricanes.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Muse\Absolution\11 The Small Print.mp3 and D:\Music\Muse\Absolution\11 The Small Print.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Muse\Absolution\12 Endlessly.mp3 and D:\Music\Muse\Absolution\12 Endlessly.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Muse\Absolution\13 Thoughts Of A Dying Atheist.mp3 and D:\Music\Muse\Absolution\13 Thoughts Of A Dying Atheist.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Muse\Absolution\14 Ruled By Secrecy.mp3 and D:\Music\Muse\Absolution\14 Ruled By Secrecy.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Muse\The 2nd Law\01 Supremacy.mp3 and D:\Music\Muse\The 2nd Law\01 Supremacy.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Muse\The 2nd Law\02 Madness.mp3 and D:\Music\Muse\The 2nd Law\02 Madness.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Muse\The 2nd Law\03 Panic Station.mp3 and D:\Music\Muse\The 2nd Law\03 Panic Station.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Muse\The 2nd Law\04 Prelude.mp3 and D:\Music\Muse\The 2nd Law\04 Prelude.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Muse\The 2nd Law\05 Survival.mp3 and D:\Music\Muse\The 2nd Law\05 Survival.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Muse\The 2nd Law\06 Follow Me.mp3 and D:\Music\Muse\The 2nd Law\06 Follow Me.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Muse\The 2nd Law\07 Animals.mp3 and D:\Music\Muse\The 2nd Law\07 Animals.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Muse\The 2nd Law\08 Explorers.mp3 and D:\Music\Muse\The 2nd Law\08 Explorers.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Muse\The 2nd Law\09 Big Freeze.mp3 and D:\Music\Muse\The 2nd Law\09 Big Freeze.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Muse\The 2nd Law\10 Save Me.mp3 and D:\Music\Muse\The 2nd Law\10 Save Me.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Muse\The 2nd Law\11 Liquid State.mp3 and D:\Music\Muse\The 2nd Law\11 Liquid State.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Muse\The 2nd Law\12 The 2nd Law_ Unsustainable.mp3 and D:\Music\Muse\The 2nd Law\12 The 2nd Law_ Unsustainable.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Muse\The 2nd Law\13 The 2nd Law_ Isolated System.mp3 and D:\Music\Muse\The 2nd Law\13 The 2nd Law_ Isolated System.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Nirvana\Nevermind [Disc 1]\1-01 Smells Like Teen Spirit.mp3 and D:\Music\Nirvana\Nevermind [Disc 1]\1-01 Smells Like Teen Spirit.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Nirvana\Nevermind [Disc 1]\1-02 In Bloom.mp3 and D:\Music\Nirvana\Nevermind [Disc 1]\1-02 In Bloom.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Nirvana\Nevermind [Disc 1]\1-03 Come As You Are.mp3 and D:\Music\Nirvana\Nevermind [Disc 1]\1-03 Come As You Are.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Nirvana\Nevermind [Disc 1]\1-04 Breed.mp3 and D:\Music\Nirvana\Nevermind [Disc 1]\1-04 Breed.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Nirvana\Nevermind [Disc 1]\1-05 Lithium.mp3 and D:\Music\Nirvana\Nevermind [Disc 1]\1-05 Lithium.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Nirvana\Nevermind [Disc 1]\1-06 Polly.mp3 and D:\Music\Nirvana\Nevermind [Disc 1]\1-06 Polly.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Nirvana\Nevermind [Disc 1]\1-07 Territorial Pissings.mp3 and D:\Music\Nirvana\Nevermind [Disc 1]\1-07 Territorial Pissings.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Nirvana\Nevermind [Disc 1]\1-08 Drain You.mp3 and D:\Music\Nirvana\Nevermind [Disc 1]\1-08 Drain You.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Nirvana\Nevermind [Disc 1]\1-09 Lounge Act.mp3 and D:\Music\Nirvana\Nevermind [Disc 1]\1-09 Lounge Act.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Nirvana\Nevermind [Disc 1]\1-10 Stay Away.mp3 and D:\Music\Nirvana\Nevermind [Disc 1]\1-10 Stay Away.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Nirvana\Nevermind [Disc 1]\1-11 On A Plain.mp3 and D:\Music\Nirvana\Nevermind [Disc 1]\1-11 On A Plain.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Nirvana\Nevermind [Disc 1]\1-13 Even In His Youth.mp3 and D:\Music\Nirvana\Nevermind [Disc 1]\1-13 Even In His Youth.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Nirvana\Nevermind [Disc 1]\1-14 Aneurysm.mp3 and D:\Music\Nirvana\Nevermind [Disc 1]\1-14 Aneurysm.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Nirvana\Nevermind [Disc 1]\1-15 Curmudgeon.mp3 and D:\Music\Nirvana\Nevermind [Disc 1]\1-15 Curmudgeon.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Nirvana\Nevermind [Disc 1]\1-16 D-7 [Live].mp3 and D:\Music\Nirvana\Nevermind [Disc 1]\1-16 D-7 [Live].mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Nirvana\Nevermind [Disc 1]\1-17 Been A Son [Live].mp3 and D:\Music\Nirvana\Nevermind [Disc 1]\1-17 Been A Son [Live].mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Nirvana\Nevermind [Disc 1]\1-18 School [Live].mp3 and D:\Music\Nirvana\Nevermind [Disc 1]\1-18 School [Live].mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Nirvana\Nevermind [Disc 1]\1-19 Drain You [Live].mp3 and D:\Music\Nirvana\Nevermind [Disc 1]\1-19 Drain You [Live].mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Nirvana\Nevermind [Disc 1]\1-20 Sliver [Live].mp3 and D:\Music\Nirvana\Nevermind [Disc 1]\1-20 Sliver [Live].mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Nirvana\Nevermind [Disc 1]\1-21 Polly [Live].mp3 and D:\Music\Nirvana\Nevermind [Disc 1]\1-21 Polly [Live].mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Radiohead\OK Computer\01 Airbag.mp3 and D:\Music\Radiohead\OK Computer\01 Airbag.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Radiohead\OK Computer\02 Paranoid Android.mp3 and D:\Music\Radiohead\OK Computer\02 Paranoid Android.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Radiohead\OK Computer\03 Subterranean Homesick Alien.mp3 and D:\Music\Radiohead\OK Computer\03 Subterranean Homesick Alien.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Radiohead\OK Computer\04 Exit Music (For A Film).mp3 and D:\Music\Radiohead\OK Computer\04 Exit Music (For A Film).mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Radiohead\OK Computer\05 Let Down.mp3 and D:\Music\Radiohead\OK Computer\05 Let Down.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Radiohead\OK Computer\06 Karma Police.mp3 and D:\Music\Radiohead\OK Computer\06 Karma Police.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Radiohead\OK Computer\07 Fitter Happier.mp3 and D:\Music\Radiohead\OK Computer\07 Fitter Happier.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Radiohead\OK Computer\08 Electioneering.mp3 and D:\Music\Radiohead\OK Computer\08 Electioneering.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Radiohead\OK Computer\09 Climbing Up The Walls.mp3 and D:\Music\Radiohead\OK Computer\09 Climbing Up The Walls.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Radiohead\OK Computer\10 No Surprises.mp3 and D:\Music\Radiohead\OK Computer\10 No Surprises.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Radiohead\OK Computer\11 Lucky.mp3 and D:\Music\Radiohead\OK Computer\11 Lucky.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Radiohead\OK Computer\12 The Tourist.mp3 and D:\Music\Radiohead\OK Computer\12 The Tourist.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Red Hot Chili Peppers\Out In L.A_\01 Higher Ground (12_ Vocal Mix).mp3 and D:\Music\Red Hot Chili Peppers\Out In L.A_\01 Higher Ground (12_ Vocal Mix).mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Red Hot Chili Peppers\Out In L.A_\04 Behind The Sun (Ben Grosse Remix).mp3 and D:\Music\Red Hot Chili Peppers\Out In L.A_\04 Behind The Sun (Ben Grosse Remix).mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Red Hot Chili Peppers\Out In L.A_\05 Castles Made Of Sand [Live].mp3 and D:\Music\Red Hot Chili Peppers\Out In L.A_\05 Castles Made Of Sand [Live].mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Red Hot Chili Peppers\Out In L.A_\06 Special Secret Song Inside [Live].mp3 and D:\Music\Red Hot Chili Peppers\Out In L.A_\06 Special Secret Song Inside [Live].mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Red Hot Chili Peppers\Out In L.A_\07 F. U. [Live].mp3 and D:\Music\Red Hot Chili Peppers\Out In L.A_\07 F. U. [Live].mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Red Hot Chili Peppers\Out In L.A_\08 Get Up And Jump [Demo Version].mp3 and D:\Music\Red Hot Chili Peppers\Out In L.A_\08 Get Up And Jump [Demo Version].mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Red Hot Chili Peppers\Out In L.A_\09 Out In L.A. [Demo Version].mp3 and D:\Music\Red Hot Chili Peppers\Out In L.A_\09 Out In L.A. [Demo Version].mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Red Hot Chili Peppers\Out In L.A_\10 Green Heaven [Demo Version].mp3 and D:\Music\Red Hot Chili Peppers\Out In L.A_\10 Green Heaven [Demo Version].mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Red Hot Chili Peppers\Out In L.A_\11 Police Helicopter [Demo Version].mp3 and D:\Music\Red Hot Chili Peppers\Out In L.A_\11 Police Helicopter [Demo Version].mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Red Hot Chili Peppers\Out In L.A_\12 Nevermind [Demo Version].mp3 and D:\Music\Red Hot Chili Peppers\Out In L.A_\12 Nevermind [Demo Version].mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Red Hot Chili Peppers\Out In L.A_\13 Sex Rap [Demo Version].mp3 and D:\Music\Red Hot Chili Peppers\Out In L.A_\13 Sex Rap [Demo Version].mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Red Hot Chili Peppers\Out In L.A_\14 Blues For Meister.mp3 and D:\Music\Red Hot Chili Peppers\Out In L.A_\14 Blues For Meister.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Red Hot Chili Peppers\Out In L.A_\15 You Always Sing The Same.mp3 and D:\Music\Red Hot Chili Peppers\Out In L.A_\15 You Always Sing The Same.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Red Hot Chili Peppers\Out In L.A_\16 Stranded.mp3 and D:\Music\Red Hot Chili Peppers\Out In L.A_\16 Stranded.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Red Hot Chili Peppers\Out In L.A_\17 Flea Fly.mp3 and D:\Music\Red Hot Chili Peppers\Out In L.A_\17 Flea Fly.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Red Hot Chili Peppers\Out In L.A_\18 What It Is.mp3 and D:\Music\Red Hot Chili Peppers\Out In L.A_\18 What It Is.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\Red Hot Chili Peppers\Out In L.A_\19 Deck The Halls.mp3 and D:\Music\Red Hot Chili Peppers\Out In L.A_\19 Deck The Halls.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\The Plasma Shaft\01 Give It Away (In Progress).mp3 and D:\Music\Red Hot Chili Peppers\The Plasma Shaft\01 Give It Away (In Progress).mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\The Plasma Shaft\02 If You Have To Ask.mp3 and D:\Music\Red Hot Chili Peppers\Blood Sugar Sex Magik\02 If You Have To Ask.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\The Plasma Shaft\03 Nobody Weird (Live).mp3 and D:\Music\Red Hot Chili Peppers\The Plasma Shaft\03 Nobody Weird (Live).mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\The Plasma Shaft\04 Sikiamikanico.mp3 and D:\Music\Red Hot Chili Peppers\The Plasma Shaft\04 Sikiamikanico.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\The Plasma Shaft\05 Breaking The Girl (Radio Edit).mp3 and D:\Music\Red Hot Chili Peppers\The Plasma Shaft\05 Breaking The Girl (Radio Edit).mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\The Plasma Shaft\06 Fela's Cock (Non LP).mp3 and D:\Music\Red Hot Chili Peppers\The Plasma Shaft\06 Fela's Cock (Non LP).mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\The Plasma Shaft\08 Soul To Squeeze.mp3 and D:\Music\Red Hot Chili Peppers\The Plasma Shaft\08 Soul To Squeeze.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\The Plasma Shaft\True [Bonus Tracks]\01 Wake Me Up.mp3 and D:\Music\AVICII\True [Bonus Tracks]\01 Wake Me Up.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\The Plasma Shaft\True [Bonus Tracks]\02 You Make Me.mp3 and D:\Music\AVICII\True [Bonus Tracks]\02 You Make Me.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\The Uplift Mofo Party Plan\01 Fight Like A Brave.mp3 and D:\Music\Red Hot Chili Peppers\The Uplift Mofo Party Plan\01 Fight Like A Brave.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\The Uplift Mofo Party Plan\02 Funky Crime.mp3 and D:\Music\Red Hot Chili Peppers\The Uplift Mofo Party Plan\02 Funky Crime.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\The Uplift Mofo Party Plan\03 Me & My Friends.mp3 and D:\Music\Red Hot Chili Peppers\The Uplift Mofo Party Plan\03 Me & My Friends.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\The Uplift Mofo Party Plan\04 Backwoods.mp3 and D:\Music\Red Hot Chili Peppers\The Uplift Mofo Party Plan\04 Backwoods.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\The Uplift Mofo Party Plan\05 Skinny Sweaty Man.mp3 and D:\Music\Red Hot Chili Peppers\The Uplift Mofo Party Plan\05 Skinny Sweaty Man.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\The Uplift Mofo Party Plan\06 Behind The Sun.mp3 and D:\Music\Red Hot Chili Peppers\The Uplift Mofo Party Plan\06 Behind The Sun.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\The Uplift Mofo Party Plan\07 Subterranean Homesick Blues.mp3 and D:\Music\Red Hot Chili Peppers\The Uplift Mofo Party Plan\07 Subterranean Homesick Blues.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\The Uplift Mofo Party Plan\08 Special Secret Song Inside.mp3 and D:\Music\Red Hot Chili Peppers\The Uplift Mofo Party Plan\08 Special Secret Song Inside.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\The Uplift Mofo Party Plan\09 No Chump Love Sucker.mp3 and D:\Music\Red Hot Chili Peppers\The Uplift Mofo Party Plan\09 No Chump Love Sucker.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\The Uplift Mofo Party Plan\10 Walkin' On Down The Road.mp3 and D:\Music\Red Hot Chili Peppers\The Uplift Mofo Party Plan\10 Walkin' On Down The Road.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\The Uplift Mofo Party Plan\11 Love Trilogy.mp3 and D:\Music\Red Hot Chili Peppers\The Uplift Mofo Party Plan\11 Love Trilogy.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\The Uplift Mofo Party Plan\12 Organic Anti-Beat Box Band.mp3 and D:\Music\Red Hot Chili Peppers\The Uplift Mofo Party Plan\12 Organic Anti-Beat Box Band.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\True [Bonus Tracks]\01 Wake Me Up.mp3 and D:\Music\AVICII\True [Bonus Tracks]\01 Wake Me Up.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\True [Bonus Tracks]\02 You Make Me.mp3 and D:\Music\AVICII\True [Bonus Tracks]\02 You Make Me.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\True [Bonus Tracks]\03 Hey Brother.mp3 and D:\Music\AVICII\True [Bonus Tracks]\03 Hey Brother.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\True [Bonus Tracks]\04 Addicted To You.mp3 and D:\Music\AVICII\True [Bonus Tracks]\04 Addicted To You.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\True [Bonus Tracks]\05 Dear Boy.mp3 and D:\Music\AVICII\True [Bonus Tracks]\05 Dear Boy.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\True [Bonus Tracks]\06 Liar Liar.mp3 and D:\Music\AVICII\True [Bonus Tracks]\06 Liar Liar.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\True [Bonus Tracks]\07 Shame On Me.mp3 and D:\Music\AVICII\True [Bonus Tracks]\07 Shame On Me.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\True [Bonus Tracks]\08 Lay Me Down.mp3 and D:\Music\AVICII\True [Bonus Tracks]\08 Lay Me Down.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\True [Bonus Tracks]\09 Hope There's Someone.mp3 and D:\Music\AVICII\True [Bonus Tracks]\09 Hope There's Someone.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\True [Bonus Tracks]\10 Heart Upon My Sleeve.mp3 and D:\Music\AVICII\True [Bonus Tracks]\10 Heart Upon My Sleeve.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\True [Bonus Tracks]\11 All You Need Is Love.mp3 and D:\Music\AVICII\True [Bonus Tracks]\11 All You Need Is Love.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\True [Bonus Tracks]\12 Always On The Run.mp3 and D:\Music\AVICII\True [Bonus Tracks]\12 Always On The Run.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\True [Bonus Tracks]\13 Canyons.mp3 and D:\Music\AVICII\True [Bonus Tracks]\13 Canyons.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\True [Bonus Tracks]\14 Long Road To Hell.mp3 and D:\Music\AVICII\True [Bonus Tracks]\14 Long Road To Hell.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\True [Bonus Tracks]\15 Levels.mp3 and D:\Music\AVICII\True [Bonus Tracks]\15 Levels.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\YUKI\POWERS OF TEN [Disc 1]\1-01 MY HAND.mp3 and D:\Music\YUKI\POWERS OF TEN [Disc 1]\1-01 MY HAND.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\YUKI\POWERS OF TEN [Disc 1]\1-02 the end of shite.mp3 and D:\Music\YUKI\POWERS OF TEN [Disc 1]\1-02 the end of shite.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\YUKI\POWERS OF TEN [Disc 1]\1-03 \u30d7\u30ea\u30ba\u30e0.mp3 and D:\Music\YUKI\POWERS OF TEN [Disc 1]\1-03 \u30d7\u30ea\u30ba\u30e0.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\YUKI\POWERS OF TEN [Disc 1]\1-04 66db.mp3 and D:\Music\YUKI\POWERS OF TEN [Disc 1]\1-04 66db.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\YUKI\POWERS OF TEN [Disc 1]\1-05 \u30b9\u30bf\u30f3\u30c9\u30a2\u30c3\u30d7! \u30b7\u30b9\u30bf\u30fc.mp3 and D:\Music\YUKI\POWERS OF TEN [Disc 1]\1-05 \u30b9\u30bf\u30f3\u30c9\u30a2\u30c3\u30d7! \u30b7\u30b9\u30bf\u30fc.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\YUKI\POWERS OF TEN [Disc 1]\1-06 \u30bb\u30f3\u30c1\u30e1\u30f3\u30bf\u30eb\u30b8\u30e3\u30fc\u30cb\u30fc.mp3 and D:\Music\YUKI\POWERS OF TEN [Disc 1]\1-06 \u30bb\u30f3\u30c1\u30e1\u30f3\u30bf\u30eb\u30b8\u30e3\u30fc\u30cb\u30fc.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\YUKI\POWERS OF TEN [Disc 1]\1-07 \u30cf\u30df\u30f3\u30b0\u30d0\u30fc\u30c9.mp3 and D:\Music\YUKI\POWERS OF TEN [Disc 1]\1-07 \u30cf\u30df\u30f3\u30b0\u30d0\u30fc\u30c9.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\YUKI\POWERS OF TEN [Disc 1]\1-08 Home Sweet Home.mp3 and D:\Music\YUKI\POWERS OF TEN [Disc 1]\1-08 Home Sweet Home.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\YUKI\POWERS OF TEN [Disc 1]\1-09 \u30cf\u30ed\u30fc\u30b0\u30c3\u30d0\u30a4.mp3 and D:\Music\YUKI\POWERS OF TEN [Disc 1]\1-09 \u30cf\u30ed\u30fc\u30b0\u30c3\u30d0\u30a4.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\YUKI\POWERS OF TEN [Disc 1]\1-10 JOY.mp3 and D:\Music\YUKI\POWERS OF TEN [Disc 1]\1-10 JOY.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\YUKI\POWERS OF TEN [Disc 1]\1-11 \u9577\u3044\u5922.mp3 and D:\Music\YUKI\POWERS OF TEN [Disc 1]\1-11 \u9577\u3044\u5922.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\YUKI\POWERS OF TEN [Disc 1]\1-12 \u30c9\u30e9\u30de\u30c1\u30c3\u30af.mp3 and D:\Music\YUKI\POWERS OF TEN [Disc 1]\1-12 \u30c9\u30e9\u30de\u30c1\u30c3\u30af.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\YUKI\POWERS OF TEN [Disc 1]\1-13 \u6b53\u3073\u306e\u7a2e.mp3 and D:\Music\YUKI\POWERS OF TEN [Disc 1]\1-13 \u6b53\u3073\u306e\u7a2e.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\YUKI\POWERS OF TEN [Disc 1]\1-14 Rainbow st. (super session).mp3 and D:\Music\YUKI\POWERS OF TEN [Disc 1]\1-14 Rainbow st. (super session).mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\YUKI\POWERS OF TEN [Disc 2]\2-01 \u30e1\u30e9\u30f3\u30b3\u30ea\u30cb\u30b9\u30bf.mp3 and D:\Music\YUKI\POWERS OF TEN [Disc 2]\2-01 \u30e1\u30e9\u30f3\u30b3\u30ea\u30cb\u30b9\u30bf.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\YUKI\POWERS OF TEN [Disc 2]\2-02 \u3075\u304c\u3044\u306a\u3044\u3084.mp3 and D:\Music\YUKI\POWERS OF TEN [Disc 2]\2-02 \u3075\u304c\u3044\u306a\u3044\u3084.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\YUKI\POWERS OF TEN [Disc 2]\2-03 \u661f\u5c51\u30b5\u30f3\u30bb\u30c3\u30c8.mp3 and D:\Music\YUKI\POWERS OF TEN [Disc 2]\2-03 \u661f\u5c51\u30b5\u30f3\u30bb\u30c3\u30c8.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\YUKI\POWERS OF TEN [Disc 2]\2-04 \u30ef\u30f3\u30c0\u30fc\u30e9\u30a4\u30f3.mp3 and D:\Music\YUKI\POWERS OF TEN [Disc 2]\2-04 \u30ef\u30f3\u30c0\u30fc\u30e9\u30a4\u30f3.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\YUKI\POWERS OF TEN [Disc 2]\2-05 \u6c7d\u8eca\u306b\u4e57\u3063\u3066.mp3 and D:\Music\YUKI\POWERS OF TEN [Disc 2]\2-05 \u6c7d\u8eca\u306b\u4e57\u3063\u3066.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\YUKI\POWERS OF TEN [Disc 2]\2-06 \u30e9\u30f3\u30c7\u30f4\u30fc.mp3 and D:\Music\YUKI\POWERS OF TEN [Disc 2]\2-06 \u30e9\u30f3\u30c7\u30f4\u30fc.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\YUKI\POWERS OF TEN [Disc 2]\2-07 COSMIC BOX.mp3 and D:\Music\YUKI\POWERS OF TEN [Disc 2]\2-07 COSMIC BOX.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\YUKI\POWERS OF TEN [Disc 2]\2-08 \u3046\u308c\u3057\u304f\u3063\u3066\u62b1\u304d\u3042\u3046\u3088.mp3 and D:\Music\YUKI\POWERS OF TEN [Disc 2]\2-08 \u3046\u308c\u3057\u304f\u3063\u3066\u62b1\u304d\u3042\u3046\u3088.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\YUKI\POWERS OF TEN [Disc 2]\2-09 2\u4eba\u306e\u30b9\u30c8\u30fc\u30ea\u30fc.mp3 and D:\Music\YUKI\POWERS OF TEN [Disc 2]\2-09 2\u4eba\u306e\u30b9\u30c8\u30fc\u30ea\u30fc.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\YUKI\POWERS OF TEN [Disc 2]\2-10 \u3072\u307f\u3064.mp3 and D:\Music\YUKI\POWERS OF TEN [Disc 2]\2-10 \u3072\u307f\u3064.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\YUKI\POWERS OF TEN [Disc 2]\2-11 Hello!.mp3 and D:\Music\YUKI\POWERS OF TEN [Disc 2]\2-11 Hello!.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\YUKI\POWERS OF TEN [Disc 2]\2-12 \u4e16\u754c\u306f\u305f\u3060\u3001\u8f1d\u3044\u3066.mp3 and D:\Music\YUKI\POWERS OF TEN [Disc 2]\2-12 \u4e16\u754c\u306f\u305f\u3060\u3001\u8f1d\u3044\u3066.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\YUKI\POWERS OF TEN [Disc 2]\2-13 \u5927\u4eba\u306b\u306a\u3063\u3066.mp3 and D:\Music\YUKI\POWERS OF TEN [Disc 2]\2-13 \u5927\u4eba\u306b\u306a\u3063\u3066.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\YUKI\The Present_ 2010.6.14,15 Bunkamur\1-01 introduction [Live].mp3 and D:\Music\YUKI\YUKI _The Present_ 2010.6.14,15 Bunkamura Orchard Hall [Disc 1]\1-01 introduction [Live].mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\YUKI\The Present_ 2010.6.14,15 Bunkamur\1-02 \u591c\u304c\u6765\u308b [Live].mp3 and D:\Music\YUKI\YUKI _The Present_ 2010.6.14,15 Bunkamura Orchard Hall [Disc 1]\1-02 \u591c\u304c\u6765\u308b [Live].mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\YUKI\The Present_ 2010.6.14,15 Bunkamur\1-03 Home Sweet Home [Live].mp3 and D:\Music\YUKI\YUKI _The Present_ 2010.6.14,15 Bunkamura Orchard Hall [Disc 1]\1-03 Home Sweet Home [Live].mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\YUKI\The Present_ 2010.6.14,15 Bunkamur\1-04 WAGON [Live].mp3 and D:\Music\YUKI\YUKI _The Present_ 2010.6.14,15 Bunkamura Orchard Hall [Disc 1]\1-04 WAGON [Live].mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\YUKI\The Present_ 2010.6.14,15 Bunkamur\1-05 \u30df\u30b9\u30fb\u30a4\u30a8\u30b9\u30bf\u30c7\u30a4 [Live].mp3 and D:\Music\YUKI\YUKI _The Present_ 2010.6.14,15 Bunkamura Orchard Hall [Disc 1]\1-05 \u30df\u30b9\u30fb\u30a4\u30a8\u30b9\u30bf\u30c7\u30a4 [Live].mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\YUKI\The Present_ 2010.6.14,15 Bunkamur\1-06 \u6c7d\u8eca\u306b\u4e57\u3063\u3066 [Live].mp3 and D:\Music\YUKI\YUKI _The Present_ 2010.6.14,15 Bunkamura Orchard Hall [Disc 1]\1-06 \u6c7d\u8eca\u306b\u4e57\u3063\u3066 [Live].mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\YUKI\The Present_ 2010.6.14,15 Bunkamur\1-07 \u6b53\u3073\u306e\u7a2e [Live].mp3 and D:\Music\YUKI\YUKI _The Present_ 2010.6.14,15 Bunkamura Orchard Hall [Disc 1]\1-07 \u6b53\u3073\u306e\u7a2e [Live].mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\YUKI\The Present_ 2010.6.14,15 Bunkamur\1-08 \u3046\u308c\u3057\u304f\u3063\u3066\u62b1\u304d\u3042\u3046\u3088 [Live].mp3 and D:\Music\YUKI\YUKI _The Present_ 2010.6.14,15 Bunkamura Orchard Hall [Disc 1]\1-08 \u3046\u308c\u3057\u304f\u3063\u3066\u62b1\u304d\u3042\u3046\u3088 [Live].mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\YUKI\The Present_ 2010.6.14,15 Bunkamur\1-09 \u30cf\u30df\u30f3\u30b0\u30d0\u30fc\u30c9 [Live].mp3 and D:\Music\YUKI\YUKI _The Present_ 2010.6.14,15 Bunkamura Orchard Hall [Disc 1]\1-09 \u30cf\u30df\u30f3\u30b0\u30d0\u30fc\u30c9 [Live].mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\YUKI\The Present_ 2010.6.14,15 Bunkamur\1-10 \u30d7\u30ea\u30ba\u30e0 [Live].mp3 and D:\Music\YUKI\YUKI _The Present_ 2010.6.14,15 Bunkamura Orchard Hall [Disc 1]\1-10 \u30d7\u30ea\u30ba\u30e0 [Live].mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\YUKI\The Present_ 2010.6.14,15 Bunkamur\2-01 \u30c1\u30e3\u30a4\u30cb\u30fc\u30ba\u30ac\u30fc\u30eb [Live].mp3 and D:\Music\YUKI\YUKI _The Present_ 2010.6.14,15 Bunkamura Orchard Hall [Disc 2]\2-01 \u30c1\u30e3\u30a4\u30cb\u30fc\u30ba\u30ac\u30fc\u30eb [Live].mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\YUKI\The Present_ 2010.6.14,15 Bunkamur\2-02 66db [Live].mp3 and D:\Music\YUKI\YUKI _The Present_ 2010.6.14,15 Bunkamura Orchard Hall [Disc 2]\2-02 66db [Live].mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\YUKI\The Present_ 2010.6.14,15 Bunkamur\2-03 \u30c6\u30a3\u30f3\u30ab\u30fc\u30d9\u30eb [Live].mp3 and D:\Music\YUKI\YUKI _The Present_ 2010.6.14,15 Bunkamura Orchard Hall [Disc 2]\2-03 \u30c6\u30a3\u30f3\u30ab\u30fc\u30d9\u30eb [Live].mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\YUKI\The Present_ 2010.6.14,15 Bunkamur\2-04 \u30e9\u30f3\u30c7\u30f4\u30fc [Live].mp3 and D:\Music\YUKI\YUKI _The Present_ 2010.6.14,15 Bunkamura Orchard Hall [Disc 2]\2-04 \u30e9\u30f3\u30c7\u30f4\u30fc [Live].mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\YUKI\The Present_ 2010.6.14,15 Bunkamur\2-05 \u30c9\u30e9\u30de\u30c1\u30c3\u30af [Live].mp3 and D:\Music\YUKI\YUKI _The Present_ 2010.6.14,15 Bunkamura Orchard Hall [Disc 2]\2-05 \u30c9\u30e9\u30de\u30c1\u30c3\u30af [Live].mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\YUKI\The Present_ 2010.6.14,15 Bunkamur\2-06 COSMIC BOX [Live].mp3 and D:\Music\YUKI\YUKI _The Present_ 2010.6.14,15 Bunkamura Orchard Hall [Disc 2]\2-06 COSMIC BOX [Live].mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\YUKI\The Present_ 2010.6.14,15 Bunkamur\2-07 \u671d\u304c\u6765\u308b [Live].mp3 and D:\Music\YUKI\YUKI _The Present_ 2010.6.14,15 Bunkamura Orchard Hall [Disc 2]\2-07 \u671d\u304c\u6765\u308b [Live].mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\album\YUKI\The Present_ 2010.6.14,15 Bunkamur\2-08 \u604b\u611b\u6a21\u69d8 [Live].mp3 and D:\Music\YUKI\YUKI _The Present_ 2010.6.14,15 Bunkamura Orchard Hall [Disc 2]\2-08 \u604b\u611b\u6a21\u69d8 [Live].mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\JUNK \u30d0\u30ca\u30ca\u30de\u30f3\u306e\u30d0\u30ca\u30ca\u30e0\u30fc\u30f3GOLD\2013\\u30d0\u30ca\u30ca\u30de\u30f311\u670815\u65e52013\u5e74.mp3 and D:\Music\iTunes\iTunes Media\Podcasts\JUNK \u30d0\u30ca\u30ca\u30de\u30f3\u306e\u30d0\u30ca\u30ca\u30e0\u30fc\u30f3GOLD\\u30d0\u30ca\u30ca\u30de\u30f311\u670815\u65e52013\u5e74.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\JUNK \u30d0\u30ca\u30ca\u30de\u30f3\u306e\u30d0\u30ca\u30ca\u30e0\u30fc\u30f3GOLD\2013\\u30d0\u30ca\u30ca\u30de\u30f311\u670822\u65e52013\u5e74.mp3 and D:\Music\iTunes\iTunes Media\Podcasts\JUNK \u30d0\u30ca\u30ca\u30de\u30f3\u306e\u30d0\u30ca\u30ca\u30e0\u30fc\u30f3GOLD\\u30d0\u30ca\u30ca\u30de\u30f311\u670822\u65e52013\u5e74.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\JUNK \u30d0\u30ca\u30ca\u30de\u30f3\u306e\u30d0\u30ca\u30ca\u30e0\u30fc\u30f3GOLD\2013\\u30d0\u30ca\u30ca\u30de\u30f311\u670829\u65e52013\u5e74.mp3 and D:\Music\iTunes\iTunes Media\Podcasts\JUNK \u30d0\u30ca\u30ca\u30de\u30f3\u306e\u30d0\u30ca\u30ca\u30e0\u30fc\u30f3GOLD\\u30d0\u30ca\u30ca\u30de\u30f311\u670829\u65e52013\u5e74.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\JUNK \u30d0\u30ca\u30ca\u30de\u30f3\u306e\u30d0\u30ca\u30ca\u30e0\u30fc\u30f3GOLD\2013\\u30d0\u30ca\u30ca\u30de\u30f312\u670813\u65e52013\u5e74.mp3 and D:\Music\iTunes\iTunes Media\Podcasts\JUNK \u30d0\u30ca\u30ca\u30de\u30f3\u306e\u30d0\u30ca\u30ca\u30e0\u30fc\u30f3GOLD\\u30d0\u30ca\u30ca\u30de\u30f312\u670813\u65e52013\u5e74.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\JUNK \u30d0\u30ca\u30ca\u30de\u30f3\u306e\u30d0\u30ca\u30ca\u30e0\u30fc\u30f3GOLD\2013\\u30d0\u30ca\u30ca\u30de\u30f312\u670820\u65e52013\u5e74.mp3 and D:\Music\iTunes\iTunes Media\Podcasts\JUNK \u30d0\u30ca\u30ca\u30de\u30f3\u306e\u30d0\u30ca\u30ca\u30e0\u30fc\u30f3GOLD\\u30d0\u30ca\u30ca\u30de\u30f312\u670820\u65e52013\u5e74.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\JUNK \u30d0\u30ca\u30ca\u30de\u30f3\u306e\u30d0\u30ca\u30ca\u30e0\u30fc\u30f3GOLD\2013\\u30d0\u30ca\u30ca\u30de\u30f312\u67086\u65e52013\u5e74.mp3 and D:\Music\iTunes\iTunes Media\Podcasts\JUNK \u30d0\u30ca\u30ca\u30de\u30f3\u306e\u30d0\u30ca\u30ca\u30e0\u30fc\u30f3GOLD\\u30d0\u30ca\u30ca\u30de\u30f312\u67086\u65e52013\u5e74.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\Men I trust live\Men I Trust - Forever Live Sessions (Full Album)_.mp3 and D:\Music\Men I trust live\Men I Trust - Forever Live Sessions (Full Album)_.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\Men I trust live\Men I Trust - Live at Corona Capital 2022 (HD)_.mp3 and D:\Music\Men I trust live\Men I Trust - Live at Corona Capital 2022 (HD)_.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\Men I trust live\Men I Trust - Music Hall of Williamsburg (full concert)_.mp3 and D:\Music\Men I trust live\Men I Trust - Music Hall of Williamsburg (full concert)_.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\Men I trust live\Men I Trust Live 2022_.mp3 and D:\Music\Men I trust live\Men I Trust Live 2022_.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\Men I trust live\Men I Trust USA Tour 2022 - House of Blues - Orlando, FL_.mp3 and D:\Music\Men I trust live\Men I Trust USA Tour 2022 - House of Blues - Orlando, FL_.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\MUSIC\02 Joy Trip.mp3 and D:\Music\iTunes\BENNIE K\BEST OF THE BESTEST\02 Joy Trip.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\MUSIC\03 Dreamland.mp3 and D:\Music\iTunes\BENNIE K\BEST OF THE BESTEST\03 Dreamland.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\MUSIC\04 \u30b5\u30f3\u30e9\u30a4\u30ba.mp3 and D:\Music\iTunes\BENNIE K\BEST OF THE BESTEST\04 \u30b5\u30f3\u30e9\u30a4\u30ba.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\MUSIC\05 UNITY.mp3 and D:\Music\iTunes\BENNIE K\BEST OF THE BESTEST\05 UNITY.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\MUSIC\\u3010\u4f5c\u696d\u7528BGM\u3011\u897f\u91ce\u30ab\u30ca\u3010\u30d4\u30c3\u30c1\u5909\u66f4\u3011.mp3 and D:\Music\album\Unknown Album\\u3010\u4f5c\u696d\u7528BGM\u3011\u897f\u91ce\u30ab\u30ca\u3010\u30d4\u30c3\u30c1\u5909\u66f4\u3011.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\zsagyou\sagyouba\Stevie Wonder\u3011.mp3 and D:\Music\LINE_REC\zsagyou\bgm3\Stevie Wonder\u3011.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\\u30c7\u30b9\u30b3\01.LADY MADONNA \uff5e\u6182\u9b31\u306a\u308b\u30b9\u30d1\u30a4\u30c0\u30fc\uff5e.mp3 and D:\Music\\u30c7\u30b9\u30b3\01.LADY MADONNA \uff5e\u6182\u9b31\u306a\u308b\u30b9\u30d1\u30a4\u30c0\u30fc\uff5e.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\\u30c7\u30b9\u30b3\02.Your Song.mp3 and D:\Music\\u30c7\u30b9\u30b3\02.Your Song.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\\u30c7\u30b9\u30b3\03.Last Smile.mp3 and D:\Music\\u30c7\u30b9\u30b3\03.Last Smile.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\\u30c7\u30b9\u30b3\04.I mean love me.mp3 and D:\Music\\u30c7\u30b9\u30b3\04.I mean love me.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\\u30c7\u30b9\u30b3\05.Moonly.mp3 and D:\Music\\u30c7\u30b9\u30b3\05.Moonly.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\\u30c7\u30b9\u30b3\06.Are you still dreaming ever-free.mp3 and D:\Music\\u30c7\u30b9\u30b3\06.Are you still dreaming ever-free.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\\u30c7\u30b9\u30b3\07.I miss you.mp3 and D:\Music\\u30c7\u30b9\u30b3\07.I miss you.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\\u30c7\u30b9\u30b3\08.\u30ce\u30b9\u30bf\u30eb\u30b8\u30c3\u30af.mp3 and D:\Music\\u30c7\u30b9\u30b3\08.\u30ce\u30b9\u30bf\u30eb\u30b8\u30c3\u30af.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\\u30c7\u30b9\u30b3\09.These days.mp3 and D:\Music\\u30c7\u30b9\u30b3\09.These days.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\\u30c7\u30b9\u30b3\10.LOW(ver.1.1).mp3 and D:\Music\\u30c7\u30b9\u30b3\10.LOW(ver.1.1).mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\\u30c7\u30b9\u30b3\11.A DAY FOR YOU.mp3 and D:\Music\\u30c7\u30b9\u30b3\11.A DAY FOR YOU.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\\u30c8\u30fc\u30bf\u30eb\u30c6\u30f3\u30dc\u30b9\u306e\u306c\u304d\u3055\u3057\u306a\u3089\u30ca\u30a4\u30c8\uff01\\u3010\u7b2c193\u56de\u301120131223.mp3 and D:\Music\iTunes\iTunes Media\Podcasts\\u30c8\u30fc\u30bf\u30eb\u30c6\u30f3\u30dc\u30b9\u306e\u306c\u304d\u3055\u3057\u306a\u3089\u30ca\u30a4\u30c8\uff01\\u3010\u7b2c193\u56de\u301120131223.mp3
+INFO:root:Duplicate found: D:\Music\LINE_REC\\u30c8\u30fc\u30bf\u30eb\u30c6\u30f3\u30dc\u30b9\u306e\u306c\u304d\u3055\u3057\u306a\u3089\u30ca\u30a4\u30c8\uff01\\u3010\u7b2c70\u56de\u301120110815.mp3 and D:\Music\iTunes\Podcasts\\u30c8\u30fc\u30bf\u30eb\u30c6\u30f3\u30dc\u30b9\u306e\u306c\u304d\u3055\u3057\u306a\u3089\u30ca\u30a4\u30c8\uff01\\u3010\u7b2c70\u56de\u301120110815.mp3
+INFO:root:Duplicate found: D:\Music\FullKEXP\Daughter - Full Performance (Live on KEXP).mp3 and D:\Music\iTunes\Music\npr+others\Unknown Album\Daughter - Full Performance (Live on KEXP).mp3
+INFO:root:Duplicate found: D:\Music\AudiotreeFull\tricot on Audiotree Live (Full Session).mp3 and D:\Music\iTunes\Music\Unknown Artist\U\u30e6\tricot on Audiotree Live (Full Session).mp3
+INFO:root:Duplicate found: D:\Music\Dream\90's Underground Hip Hop - Rare Tracks (64 kbps).mp3 and D:\Music\iTunes\Music\Unknown Artist\NeoEva\90's Underground Hip Hop - Rare Tracks (64 kbps).mp3
+INFO:root:Duplicate found: D:\Music\Dream\Men I Trust - Forever Live Sessions (Full Album).mp3 and D:\Music\iTunes\Music\Unknown Artist\Unknown Album\Men I Trust - Forever Live Sessions (Full Album).mp3
+INFO:root:Duplicate found: D:\Music\Dream\Men I Trust - Music Hall of Williamsburg (full concert)_.mp3 and D:\Music\Men I trust live\Men I Trust - Music Hall of Williamsburg (full concert)_.mp3
+INFO:root:Duplicate found: D:\Music\Dream\Men I Trust - Oncle Jazz (Full Album HQ) (128 kbps).mp3 and D:\Music\DailyDose\Men I Trust - Oncle Jazz (Full Album HQ) (128 kbps).mp3
+INFO:root:Duplicate found: D:\Music\Dream\MiX DJ RIKU RB.mp3 and D:\Music\iTunes\Music\Unknown Artist\NeoEva\MiX DJ RIKU RB.mp3
+INFO:root:Duplicate found: D:\Music\Dream\More Japanese Indie Folk to play in the background while life unfolds.mp3 and D:\Music\iTunes\Music\NeoCity\NeoCity\More Japanese Indie Folk to play in the background while life unfolds.mp3
+INFO:root:Duplicate found: D:\Music\Dream\mp3-now.com - \u65b0\u5287\u5834\u7248\u30a8\u30f4\u30a1\u30f3\u30b2\u30ea\u30aa\u30f3\u4e3b\u984c\u6b4c\u30e1\u30c9\u30ec\u30fc\u3000\u5b87\u591a\u7530\u30d2\u30ab\u30eb.mp3 and D:\Music\iTunes\Music\Unknown Artist\NeoEva\mp3-now.com - \u65b0\u5287\u5834\u7248\u30a8\u30f4\u30a1\u30f3\u30b2\u30ea\u30aa\u30f3\u4e3b\u984c\u6b4c\u30e1\u30c9\u30ec\u30fc\u3000\u5b87\u591a\u7530\u30d2\u30ab\u30eb.mp3
+INFO:root:Duplicate found: D:\Music\Dream\Music like Clairo Similar Artists Playlist Vol. 1 (128 kbps).mp3 and D:\Music\DailyDose\Music like Clairo Similar Artists Playlist Vol. 1 (128 kbps).mp3
+INFO:root:Duplicate found: D:\Music\Dream\Music like Men I Trust Similar Artists Playlist Vol. 1 (128 kbps).mp3 and D:\Music\DailyDose\Music like Men I Trust Similar Artists Playlist Vol. 1 (128 kbps).mp3
+INFO:root:Duplicate found: D:\Music\Dream\Music like Skinshape Similar Artists Playlist Vol. 1 (128 kbps).mp3 and D:\Music\DailyDose\Music like Skinshape Similar Artists Playlist Vol. 1 (128 kbps).mp3
+INFO:root:Duplicate found: D:\Music\Dream\Music like Still Corners Similar Artists Playlist (128 kbps).mp3 and D:\Music\DailyDose\Music like Still Corners Similar Artists Playlist (128 kbps).mp3
+INFO:root:Duplicate found: D:\Music\Dream\Still Corners - Slow Air - full album (2018) (128 kbps).mp3 and D:\Music\DailyDose\Still Corners - Slow Air - full album (2018) (128 kbps).mp3
+INFO:root:Duplicate found: D:\Music\Dream\Still Corners - Strange Pleasures [FULL ALBUM STREAM] (128 kbps).mp3 and D:\Music\DailyDose\Still Corners - Strange Pleasures [FULL ALBUM STREAM] (128 kbps).mp3
+INFO:root:Duplicate found: D:\Music\Dream\Sting And Shaggy NPR Music Tiny Desk Concert (128 kbps).mp3 and D:\Music\iTunes\Music\Unknown Artist\NeoEva\Sting And Shaggy NPR Music Tiny Desk Concert (128 kbps).mp3
+INFO:root:Duplicate found: D:\Music\Dream\\u3010\u4e0d\u7720\u6771\u4eac\u3011SOUND PROVIDERS EASY MIX _ DJ SURD from SLEEPLESS_TOKYO\u3010JASON SKILLS\u3011 (128 kbps).mp3 and D:\Music\iTunes\Music\Unknown Artist\NeoEva\\u3010\u4e0d\u7720\u6771\u4eac\u3011SOUND PROVIDERS EASY MIX _ DJ SURD from SLEEPLESS_TOKYO\u3010JASON SKILLS\u3011 (128 kbps).mp3
+INFO:root:Duplicate found: D:\Music\Dream\\u3010\u4e0d\u7720\u6771\u4eac\u3011\u9234\u6728 \u771f\u6d77\u5b50 EASY MIX _ DJ S.mp3 and D:\Music\EASY MIX _ DJ SURD from SLEEPLESS_TOKYO\u3010che\Unknown Album\\u3010\u4e0d\u7720\u6771\u4eac\u3011\u9234\u6728 \u771f\u6d77\u5b50 EASY MIX _ DJ S.mp3
+INFO:root:Duplicate found: D:\Music\Dream\\u3086\u3089\u3086\u3089\u5e1d\u56fd 3 x 3 x 3 ( 1998 ).mp3 and D:\Music\severalmp3\Unknown Album\\u3086\u3089\u3086\u3089\u5e1d\u56fd 3 x 3 x 3 ( 1998 ).mp3
+INFO:root:Duplicate found: D:\Music\japaneseIndieFolk\More Japanese Indie Folk to play in the background while life unfolds.mp3 and D:\Music\iTunes\Music\NeoCity\NeoCity\More Japanese Indie Folk to play in the background while life unfolds.mp3
+INFO:root:Duplicate found: D:\Music\jazzpiano\Arctic Monkeys - AM.mp3 and D:\Music\LINE_REC\album\album3mp3\Arctic Monkeys - AM.mp3
+INFO:root:Duplicate found: D:\Music\jazzpiano\BBC Oscar Peterson Live at Ronnie Scotts 1974.mp3 and D:\Music\iTunes\Music\NeoCity\NeoCity\BBC Oscar Peterson Live at Ronnie Scotts 1974.mp3
+INFO:root:Duplicate found: D:\Music\jazzpiano\Ben Webster meets Oscar Peterson Hannover 1972.mp3 and D:\Music\iTunes\Music\NeoCity\NeoCity\Ben Webster meets Oscar Peterson Hannover 1972.mp3
+INFO:root:Duplicate found: D:\Music\yurayura2\TRAPPIN IN \uff2a\uff21\uff30\uff21\uff2e³.mp3 and D:\Music\TRAPPINGinJAPAN\TRAPPIN IN \uff2a\uff21\uff30\uff21\uff2e³.mp3
+INFO:root:Duplicate found: D:\Music\yurayura2\\u3086\u3089\u3086\u3089\u5e1d\u56fd 3 x 3 x 3 ( 1998 ).mp3 and D:\Music\severalmp3\Unknown Album\\u3086\u3089\u3086\u3089\u5e1d\u56fd 3 x 3 x 3 ( 1998 ).mp3
+INFO:root:Duplicate found: D:\Music\yurayura2\\u3086\u3089\u3086\u3089\u5e1d\u56fd(Yura Yura Teikoku) - 1998-2004 (2004) [Full Album].mp3 and D:\Music\yurayura\\u3086\u3089\u3086\u3089\u5e1d\u56fd(Yura Yura Teikoku) - 1998-2004 (2004) [Full Album].mp3
+INFO:root:Duplicate found: D:\Music\yurayura2\\u3086\u3089\u3086\u3089\u5e1d\u56fd(Yura Yura Teikoku) - Live at STUDIO COAST (2007.10.10) [Full Performance].mp3 and D:\Music\yurayura\\u3086\u3089\u3086\u3089\u5e1d\u56fd(Yura Yura Teikoku) - Live at STUDIO COAST (2007.10.10) [Full Performance].mp3

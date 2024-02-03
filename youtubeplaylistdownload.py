@@ -23,16 +23,23 @@ ydl_opts = {
     'ignoreerrors' : 'True'
 }
 
+# ydl_opts = {
+#     'format': 'bestvideo[ext=mp4]+bestaudio[ext=m4a]/best[ext=mp4]/best',
+#     'outtmpl': '%(title)s.%(ext)s',
+#     'ignoreerrors': True
+# }
+
 #get the artist or channel name
-artist_name = input('Please enter the folder name: ')
+#artist_name = input('Please enter the folder name: ')
+artist_name = 'njabesalbums'
 #create folder
-os.chdir("G:\Music")
+os.chdir(r"C:\Users\yuzup\Music")
 os.mkdir(artist_name)
 os.chdir(artist_name)
 
 with YoutubeDL(ydl_opts) as ydl:
     result = ydl.download([
-        'https://www.youtube.com/@mymusic9447/videos'
+        'https://www.youtube.com/playlist?list=PL7mSn7OunYCGwpKx3926MaE-R6Po1KzRe'
     ])
     
     
